@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trinity - Alpha Pod Hub</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        html, body { width: 100%; height: 100%; overflow: hidden; background: #0a0a0f; }
+        iframe { width: 100%; height: 100%; border: none; }
+        .error { color: #ff6b6b; padding: 2rem; font-family: system-ui; text-align: center; }
+    </style>
+</head>
+<body>
+    <iframe id="frame" src=""></iframe>
+    <script>
+        // Try floww dev server first, then fallback to production
+        var FRAMEWORK_URL = 'http://localhost:3000';
+        var frame = document.getElementById('frame');
+
+        // Check if floww backend is running
+        fetch(FRAMEWORK_URL + '/api/health', { method: 'HEAD', signal: AbortSignal.timeout(1500) })
+            .then(function() { frame.src = FRAMEWORK_URL + '/legacy/trinity'; })
+            .catch(function() {
+                document.body.innerHTML = '<div class="error"><h2>Trinity</h2><p>Floww backend not running at ' + FRAMEWORK_URL + '</p><p>Start it with: <code>cd floww/frontend && npm start</code></p></div>';
+            });
+    </script>
+</body>
+</html>
