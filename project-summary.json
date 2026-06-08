@@ -1,0 +1,57 @@
+{
+  "generated": "2026-06-02T12:00:00Z",
+  "project": {
+    "total_files": 2189,
+    "total_mb": 48.8
+  },
+  "api_data": {
+    "total_json": 2148,
+    "total_mb": 48.8,
+    "deep_dive_tickers": 278,
+    "unique_tickers": 278,
+    "ta_files": 253,
+    "chart_files": 948,
+    "alert_pages": 167,
+    "gex_files": 408,
+    "alpha_flow_files": 37,
+    "flow_digest_files": 17
+  },
+  "captured_html": {
+    "count": 17,
+    "files": [
+      "index.html",
+      "signals.html",
+      "spx-alerts.html",
+      "spx-gex.html",
+      "unknown.html",
+      "key-levels.html",
+      "daily-report.html",
+      "performance.html",
+      "flow-alerts.html",
+      "dashboard.html",
+      "ticker-analysis-NVDA.html",
+      "trade-log.html",
+      "earnings.html",
+      "spx-gex-table.html",
+      "heatmaps.html",
+      "flow-alerts-table.html",
+      "alpha-flow.html"
+    ]
+  },
+  "placeholder_pages": {
+    "count": 7,
+    "files": [
+      "signals",
+      "trade-log",
+      "performance",
+      "key-levels",
+      "spx-alerts",
+      "heatmaps",
+      "dashboard"
+    ]
+  },
+  "screenshots": {
+    "count": 11
+  },
+  "git_commits": "45"
+}

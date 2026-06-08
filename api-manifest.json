@@ -1,0 +1,6450 @@
+{
+  "generated": "2026-06-02T12:00:00Z",
+  "total_files": 2148,
+  "files": {
+    "alerts-by-premium.json": {
+      "size": 261
+    },
+    "alerts-by-size.json": {
+      "size": 204
+    },
+    "alerts-live-p1-fresh.json": {
+      "size": 83806
+    },
+    "alerts-live-p2.json": {
+      "size": 38479
+    },
+    "alerts-live-p3.json": {
+      "size": 266
+    },
+    "alerts-live-p4.json": {
+      "size": 266
+    },
+    "alerts-live-p5.json": {
+      "size": 266
+    },
+    "alerts-p1.json": {
+      "size": 108392
+    },
+    "alerts-p10.json": {
+      "size": 337
+    },
+    "alerts-p11.json": {
+      "size": 337
+    },
+    "alerts-p110.json": {
+      "size": 264
+    },
+    "alerts-p115.json": {
+      "size": 264
+    },
+    "alerts-p12.json": {
+      "size": 337
+    },
+    "alerts-p120.json": {
+      "size": 264
+    },
+    "alerts-p125.json": {
+      "size": 264
+    },
+    "alerts-p13.json": {
+      "size": 337
+    },
+    "alerts-p130.json": {
+      "size": 264
+    },
+    "alerts-p135.json": {
+      "size": 264
+    },
+    "alerts-p14.json": {
+      "size": 337
+    },
+    "alerts-p140.json": {
+      "size": 264
+    },
+    "alerts-p141.json": {
+      "size": 264
+    },
+    "alerts-p142.json": {
+      "size": 264
+    },
+    "alerts-p143.json": {
+      "size": 264
+    },
+    "alerts-p144.json": {
+      "size": 264
+    },
+    "alerts-p145.json": {
+      "size": 264
+    },
+    "alerts-p146.json": {
+      "size": 264
+    },
+    "alerts-p147.json": {
+      "size": 264
+    },
+    "alerts-p148.json": {
+      "size": 264
+    },
+    "alerts-p149.json": {
+      "size": 264
+    },
+    "alerts-p15.json": {
+      "size": 337
+    },
+    "alerts-p150.json": {
+      "size": 264
+    },
+    "alerts-p151.json": {
+      "size": 264
+    },
+    "alerts-p152.json": {
+      "size": 264
+    },
+    "alerts-p153.json": {
+      "size": 264
+    },
+    "alerts-p154.json": {
+      "size": 264
+    },
+    "alerts-p155.json": {
+      "size": 264
+    },
+    "alerts-p156.json": {
+      "size": 264
+    },
+    "alerts-p157.json": {
+      "size": 264
+    },
+    "alerts-p158.json": {
+      "size": 264
+    },
+    "alerts-p159.json": {
+      "size": 264
+    },
+    "alerts-p16.json": {
+      "size": 337
+    },
+    "alerts-p160.json": {
+      "size": 264
+    },
+    "alerts-p161.json": {
+      "size": 264
+    },
+    "alerts-p162.json": {
+      "size": 264
+    },
+    "alerts-p163.json": {
+      "size": 264
+    },
+    "alerts-p164.json": {
+      "size": 264
+    },
+    "alerts-p165.json": {
+      "size": 264
+    },
+    "alerts-p166.json": {
+      "size": 264
+    },
+    "alerts-p167.json": {
+      "size": 264
+    },
+    "alerts-p168.json": {
+      "size": 264
+    },
+    "alerts-p169.json": {
+      "size": 264
+    },
+    "alerts-p17.json": {
+      "size": 337
+    },
+    "alerts-p170.json": {
+      "size": 264
+    },
+    "alerts-p171.json": {
+      "size": 264
+    },
+    "alerts-p172.json": {
+      "size": 264
+    },
+    "alerts-p173.json": {
+      "size": 264
+    },
+    "alerts-p174.json": {
+      "size": 264
+    },
+    "alerts-p175.json": {
+      "size": 264
+    },
+    "alerts-p176.json": {
+      "size": 264
+    },
+    "alerts-p177.json": {
+      "size": 264
+    },
+    "alerts-p178.json": {
+      "size": 264
+    },
+    "alerts-p179.json": {
+      "size": 264
+    },
+    "alerts-p18.json": {
+      "size": 337
+    },
+    "alerts-p180.json": {
+      "size": 264
+    },
+    "alerts-p181.json": {
+      "size": 264
+    },
+    "alerts-p182.json": {
+      "size": 264
+    },
+    "alerts-p183.json": {
+      "size": 264
+    },
+    "alerts-p184.json": {
+      "size": 264
+    },
+    "alerts-p185.json": {
+      "size": 264
+    },
+    "alerts-p186.json": {
+      "size": 264
+    },
+    "alerts-p187.json": {
+      "size": 264
+    },
+    "alerts-p188.json": {
+      "size": 264
+    },
+    "alerts-p189.json": {
+      "size": 264
+    },
+    "alerts-p19.json": {
+      "size": 337
+    },
+    "alerts-p190.json": {
+      "size": 264
+    },
+    "alerts-p191.json": {
+      "size": 264
+    },
+    "alerts-p192.json": {
+      "size": 264
+    },
+    "alerts-p193.json": {
+      "size": 264
+    },
+    "alerts-p194.json": {
+      "size": 264
+    },
+    "alerts-p195.json": {
+      "size": 264
+    },
+    "alerts-p196.json": {
+      "size": 264
+    },
+    "alerts-p197.json": {
+      "size": 264
+    },
+    "alerts-p198.json": {
+      "size": 264
+    },
+    "alerts-p199.json": {
+      "size": 264
+    },
+    "alerts-p2.json": {
+      "size": 49826
+    },
+    "alerts-p20.json": {
+      "size": 337
+    },
+    "alerts-p200.json": {
+      "size": 264
+    },
+    "alerts-p21.json": {
+      "size": 337
+    },
+    "alerts-p22.json": {
+      "size": 337
+    },
+    "alerts-p23.json": {
+      "size": 337
+    },
+    "alerts-p24.json": {
+      "size": 337
+    },
+    "alerts-p25.json": {
+      "size": 337
+    },
+    "alerts-p26.json": {
+      "size": 337
+    },
+    "alerts-p27.json": {
+      "size": 337
+    },
+    "alerts-p28.json": {
+      "size": 337
+    },
+    "alerts-p29.json": {
+      "size": 337
+    },
+    "alerts-p3.json": {
+      "size": 336
+    },
+    "alerts-p30.json": {
+      "size": 337
+    },
+    "alerts-p31.json": {
+      "size": 337
+    },
+    "alerts-p32.json": {
+      "size": 337
+    },
+    "alerts-p33.json": {
+      "size": 337
+    },
+    "alerts-p34.json": {
+      "size": 337
+    },
+    "alerts-p35.json": {
+      "size": 337
+    },
+    "alerts-p36.json": {
+      "size": 337
+    },
+    "alerts-p37.json": {
+      "size": 337
+    },
+    "alerts-p38.json": {
+      "size": 337
+    },
+    "alerts-p39.json": {
+      "size": 337
+    },
+    "alerts-p4.json": {
+      "size": 336
+    },
+    "alerts-p40.json": {
+      "size": 337
+    },
+    "alerts-p41.json": {
+      "size": 337
+    },
+    "alerts-p42.json": {
+      "size": 337
+    },
+    "alerts-p43.json": {
+      "size": 337
+    },
+    "alerts-p44.json": {
+      "size": 337
+    },
+    "alerts-p45.json": {
+      "size": 337
+    },
+    "alerts-p46.json": {
+      "size": 337
+    },
+    "alerts-p47.json": {
+      "size": 337
+    },
+    "alerts-p48.json": {
+      "size": 337
+    },
+    "alerts-p49.json": {
+      "size": 337
+    },
+    "alerts-p5.json": {
+      "size": 336
+    },
+    "alerts-p50.json": {
+      "size": 337
+    },
+    "alerts-p51.json": {
+      "size": 337
+    },
+    "alerts-p52.json": {
+      "size": 337
+    },
+    "alerts-p53.json": {
+      "size": 337
+    },
+    "alerts-p54.json": {
+      "size": 337
+    },
+    "alerts-p55.json": {
+      "size": 337
+    },
+    "alerts-p56.json": {
+      "size": 337
+    },
+    "alerts-p57.json": {
+      "size": 337
+    },
+    "alerts-p58.json": {
+      "size": 337
+    },
+    "alerts-p59.json": {
+      "size": 337
+    },
+    "alerts-p6.json": {
+      "size": 336
+    },
+    "alerts-p60.json": {
+      "size": 337
+    },
+    "alerts-p61.json": {
+      "size": 337
+    },
+    "alerts-p62.json": {
+      "size": 337
+    },
+    "alerts-p63.json": {
+      "size": 337
+    },
+    "alerts-p64.json": {
+      "size": 337
+    },
+    "alerts-p65.json": {
+      "size": 337
+    },
+    "alerts-p66.json": {
+      "size": 337
+    },
+    "alerts-p67.json": {
+      "size": 337
+    },
+    "alerts-p68.json": {
+      "size": 337
+    },
+    "alerts-p69.json": {
+      "size": 337
+    },
+    "alerts-p7.json": {
+      "size": 336
+    },
+    "alerts-p70.json": {
+      "size": 337
+    },
+    "alerts-p71.json": {
+      "size": 337
+    },
+    "alerts-p72.json": {
+      "size": 337
+    },
+    "alerts-p73.json": {
+      "size": 337
+    },
+    "alerts-p74.json": {
+      "size": 337
+    },
+    "alerts-p75.json": {
+      "size": 337
+    },
+    "alerts-p76.json": {
+      "size": 337
+    },
+    "alerts-p77.json": {
+      "size": 337
+    },
+    "alerts-p78.json": {
+      "size": 337
+    },
+    "alerts-p79.json": {
+      "size": 337
+    },
+    "alerts-p8.json": {
+      "size": 336
+    },
+    "alerts-p80.json": {
+      "size": 337
+    },
+    "alerts-p81.json": {
+      "size": 337
+    },
+    "alerts-p82.json": {
+      "size": 337
+    },
+    "alerts-p83.json": {
+      "size": 337
+    },
+    "alerts-p84.json": {
+      "size": 337
+    },
+    "alerts-p85.json": {
+      "size": 337
+    },
+    "alerts-p86.json": {
+      "size": 337
+    },
+    "alerts-p87.json": {
+      "size": 337
+    },
+    "alerts-p88.json": {
+      "size": 337
+    },
+    "alerts-p89.json": {
+      "size": 337
+    },
+    "alerts-p9.json": {
+      "size": 336
+    },
+    "alerts-p90.json": {
+      "size": 337
+    },
+    "alerts-p91.json": {
+      "size": 337
+    },
+    "alerts-p92.json": {
+      "size": 337
+    },
+    "alerts-p93.json": {
+      "size": 337
+    },
+    "alerts-p94.json": {
+      "size": 337
+    },
+    "alerts-p95.json": {
+      "size": 337
+    },
+    "alerts-p96.json": {
+      "size": 337
+    },
+    "alerts-p97.json": {
+      "size": 337
+    },
+    "alerts-p98.json": {
+      "size": 337
+    },
+    "alerts-p99.json": {
+      "size": 337
+    },
+    "alerts-premium-1m-plus.json": {
+      "size": 261
+    },
+    "alerts-ticker-nvda.json": {
+      "size": 261
+    },
+    "alerts-ticker-spy.json": {
+      "size": 261
+    },
+    "alpha-flow-2026-04-17.json": {
+      "size": 51556
+    },
+    "alpha-flow-2026-04-20.json": {
+      "size": 52849
+    },
+    "alpha-flow-2026-04-21.json": {
+      "size": 56717
+    },
+    "alpha-flow-2026-04-22.json": {
+      "size": 54637
+    },
+    "alpha-flow-2026-04-23.json": {
+      "size": 53829
+    },
+    "alpha-flow-2026-04-24.json": {
+      "size": 54538
+    },
+    "alpha-flow-2026-04-27.json": {
+      "size": 57784
+    },
+    "alpha-flow-2026-04-28.json": {
+      "size": 57782
+    },
+    "alpha-flow-2026-04-29.json": {
+      "size": 51740
+    },
+    "alpha-flow-2026-04-30.json": {
+      "size": 51080
+    },
+    "alpha-flow-2026-05-01.json": {
+      "size": 53398
+    },
+    "alpha-flow-2026-05-04.json": {
+      "size": 49610
+    },
+    "alpha-flow-2026-05-05.json": {
+      "size": 57603
+    },
+    "alpha-flow-2026-05-06.json": {
+      "size": 58925
+    },
+    "alpha-flow-2026-05-07.json": {
+      "size": 53082
+    },
+    "alpha-flow-2026-05-08.json": {
+      "size": 49779
+    },
+    "alpha-flow-2026-05-11.json": {
+      "size": 49779
+    },
+    "alpha-flow-2026-05-12.json": {
+      "size": 59018
+    },
+    "alpha-flow-2026-05-13.json": {
+      "size": 46753
+    },
+    "alpha-flow-2026-05-14.json": {
+      "size": 46769
+    },
+    "alpha-flow-2026-05-15.json": {
+      "size": 84768
+    },
+    "alpha-flow-2026-05-18.json": {
+      "size": 89786
+    },
+    "alpha-flow-2026-05-19.json": {
+      "size": 89642
+    },
+    "alpha-flow-2026-05-20.json": {
+      "size": 91328
+    },
+    "alpha-flow-2026-05-21.json": {
+      "size": 84212
+    },
+    "alpha-flow-2026-05-22.json": {
+      "size": 91397
+    },
+    "alpha-flow-2026-05-26.json": {
+      "size": 82925
+    },
+    "alpha-flow-2026-05-27.json": {
+      "size": 87569
+    },
+    "alpha-flow-2026-05-28.json": {
+      "size": 92647
+    },
+    "alpha-flow-2026-05-29.json": {
+      "size": 87241
+    },
+    "alpha-flow-2026-06-01-fresh.json": {
+      "size": 94614
+    },
+    "alpha-flow-dates.json": {
+      "size": 4139
+    },
+    "alpha-flow-latest.json": {
+      "size": 94614
+    },
+    "alpha-flow-live-now.json": {
+      "size": 94614
+    },
+    "alpha-flow-today.json": {
+      "size": 126153
+    },
+    "alpha-flow.json": {
+      "size": 46899
+    },
+    "api_alerts_page_1_page_size_50_size_min_1000000.json": {
+      "size": 261
+    },
+    "api_alerts_page_1_page_size_50_sort_premium_order_desc.json": {
+      "size": 261
+    },
+    "api_alpha-flow_date_2026-05-30.json": {
+      "size": 87241
+    },
+    "api_flow-digest_date_2026-05-30.json": {
+      "size": 34279
+    },
+    "api_gex_spx.json": {
+      "size": 15087
+    },
+    "available-tickers.json": {
+      "size": 444
+    },
+    "deep-dive-aal-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-aal-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-aal-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-aal-complete.json": {
+      "size": 53936
+    },
+    "deep-dive-aal-ta-complete.json": {
+      "size": 5706
+    },
+    "deep-dive-aal-ta.json": {
+      "size": 8629
+    },
+    "deep-dive-aal.json": {
+      "size": 106537
+    },
+    "deep-dive-aapl-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-aapl-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-aapl-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-aapl-ta.json": {
+      "size": 8758
+    },
+    "deep-dive-aapl.json": {
+      "size": 106985
+    },
+    "deep-dive-abnb-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-abnb-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-abnb-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-abnb-ta.json": {
+      "size": 8233
+    },
+    "deep-dive-abnb.json": {
+      "size": 108040
+    },
+    "deep-dive-abt-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-abt-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-abt-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-abt-ta.json": {
+      "size": 8229
+    },
+    "deep-dive-abt.json": {
+      "size": 107936
+    },
+    "deep-dive-acn-chart-daily-fixed.json": {
+      "size": 48976
+    },
+    "deep-dive-acn-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-acn-chart-monthly-fixed.json": {
+      "size": 156645
+    },
+    "deep-dive-acn-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-acn-chart-weekly-fixed.json": {
+      "size": 34857
+    },
+    "deep-dive-acn-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-acn-ta.json": {
+      "size": 8487
+    },
+    "deep-dive-acn.json": {
+      "size": 108031
+    },
+    "deep-dive-adbe-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-adbe-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-adbe-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-adbe-ta.json": {
+      "size": 8250
+    },
+    "deep-dive-adbe.json": {
+      "size": 108050
+    },
+    "deep-dive-aep-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-aep-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-aep-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-aep-ta.json": {
+      "size": 7102
+    },
+    "deep-dive-aep.json": {
+      "size": 106484
+    },
+    "deep-dive-aes-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-aes-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-aes-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-aes-ta.json": {
+      "size": 8596
+    },
+    "deep-dive-aes.json": {
+      "size": 106429
+    },
+    "deep-dive-afrm-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-afrm-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-afrm-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-afrm-ta.json": {
+      "size": 8526
+    },
+    "deep-dive-afrm.json": {
+      "size": 106301
+    },
+    "deep-dive-agg-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-agg-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-agg-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-agg-ta.json": {
+      "size": 7221
+    },
+    "deep-dive-agg.json": {
+      "size": 105492
+    },
+    "deep-dive-amc-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-amc-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-amc-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-amc-ta.json": {
+      "size": 8443
+    },
+    "deep-dive-amc.json": {
+      "size": 104556
+    },
+    "deep-dive-amd-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-amd-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-amd-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-amd-ta.json": {
+      "size": 8510
+    },
+    "deep-dive-amd.json": {
+      "size": 108345
+    },
+    "deep-dive-amgn-chart-daily-fixed.json": {
+      "size": 48970
+    },
+    "deep-dive-amgn-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-amgn-chart-monthly-fixed.json": {
+      "size": 154566
+    },
+    "deep-dive-amgn-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-amgn-chart-weekly-fixed.json": {
+      "size": 34915
+    },
+    "deep-dive-amgn-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-amgn-ta.json": {
+      "size": 8582
+    },
+    "deep-dive-amgn.json": {
+      "size": 108068
+    },
+    "deep-dive-amt-chart-daily-fixed.json": {
+      "size": 48944
+    },
+    "deep-dive-amt-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-amt-chart-monthly-fixed.json": {
+      "size": 150248
+    },
+    "deep-dive-amt-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-amt-chart-weekly-fixed.json": {
+      "size": 34847
+    },
+    "deep-dive-amt-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-amt-ta.json": {
+      "size": 8133
+    },
+    "deep-dive-amt.json": {
+      "size": 108014
+    },
+    "deep-dive-amzn-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-amzn-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-amzn-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-amzn-ta.json": {
+      "size": 8520
+    },
+    "deep-dive-amzn.json": {
+      "size": 108359
+    },
+    "deep-dive-arkf-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-arkf-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-arkf-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-arkf-ta.json": {
+      "size": 7416
+    },
+    "deep-dive-arkf.json": {
+      "size": 105867
+    },
+    "deep-dive-arkg-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-arkg-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-arkg-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-arkg-ta.json": {
+      "size": 7929
+    },
+    "deep-dive-arkg.json": {
+      "size": 104842
+    },
+    "deep-dive-arkk-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-arkk-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-arkk-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-arkk-ta.json": {
+      "size": 8627
+    },
+    "deep-dive-arkk.json": {
+      "size": 107605
+    },
+    "deep-dive-arkq-chart-daily-fixed.json": {
+      "size": 47788
+    },
+    "deep-dive-arkq-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-arkq-chart-monthly-fixed.json": {
+      "size": 100689
+    },
+    "deep-dive-arkq-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-arkq-chart-weekly-fixed.json": {
+      "size": 33533
+    },
+    "deep-dive-arkq-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-arkq-ta.json": {
+      "size": 6683
+    },
+    "deep-dive-arkq.json": {
+      "size": 103722
+    },
+    "deep-dive-arkw-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-arkw-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-arkw-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-arkw-ta.json": {
+      "size": 7529
+    },
+    "deep-dive-arkw.json": {
+      "size": 107571
+    },
+    "deep-dive-arkx-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-arkx-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-arkx-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-arkx-ta.json": {
+      "size": 6890
+    },
+    "deep-dive-arkx.json": {
+      "size": 103183
+    },
+    "deep-dive-avb-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-avb-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-avb-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-avb-ta.json": {
+      "size": 7989
+    },
+    "deep-dive-avb.json": {
+      "size": 107850
+    },
+    "deep-dive-avgo-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-avgo-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-avgo-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-avgo-ta.json": {
+      "size": 7991
+    },
+    "deep-dive-avgo.json": {
+      "size": 106020
+    },
+    "deep-dive-awk-chart-daily-fixed.json": {
+      "size": 48916
+    },
+    "deep-dive-awk-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-awk-chart-monthly-fixed.json": {
+      "size": 149359
+    },
+    "deep-dive-awk-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-awk-chart-weekly-fixed.json": {
+      "size": 34734
+    },
+    "deep-dive-awk-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-awk-ta.json": {
+      "size": 6774
+    },
+    "deep-dive-awk.json": {
+      "size": 107101
+    },
+    "deep-dive-axon-chart-daily-fixed.json": {
+      "size": 48755
+    },
+    "deep-dive-axon-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-axon-chart-monthly-fixed.json": {
+      "size": 155767
+    },
+    "deep-dive-axon-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-axon-chart-weekly-fixed.json": {
+      "size": 34723
+    },
+    "deep-dive-axon-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-axon-ta.json": {
+      "size": 7337
+    },
+    "deep-dive-axon.json": {
+      "size": 106466
+    },
+    "deep-dive-axp-chart-daily-fixed.json": {
+      "size": 48977
+    },
+    "deep-dive-axp-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-axp-chart-monthly-fixed.json": {
+      "size": 156562
+    },
+    "deep-dive-axp-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-axp-chart-weekly-fixed.json": {
+      "size": 34961
+    },
+    "deep-dive-axp-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-axp-ta.json": {
+      "size": 8408
+    },
+    "deep-dive-axp.json": {
+      "size": 108020
+    },
+    "deep-dive-ba-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-ba-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-ba-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-ba-ta.json": {
+      "size": 8750
+    },
+    "deep-dive-ba.json": {
+      "size": 108757
+    },
+    "deep-dive-bac-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-bac-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-bac-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-bac-ta.json": {
+      "size": 7539
+    },
+    "deep-dive-bac.json": {
+      "size": 105393
+    },
+    "deep-dive-bb-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-bb-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-bb-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-bb-ta.json": {
+      "size": 7443
+    },
+    "deep-dive-bb.json": {
+      "size": 102284
+    },
+    "deep-dive-bdx-chart-daily-fixed.json": {
+      "size": 48987
+    },
+    "deep-dive-bdx-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-bdx-chart-monthly-fixed.json": {
+      "size": 150400
+    },
+    "deep-dive-bdx-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-bdx-chart-weekly-fixed.json": {
+      "size": 34743
+    },
+    "deep-dive-bdx-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-bdx-ta.json": {
+      "size": 7812
+    },
+    "deep-dive-bdx.json": {
+      "size": 107997
+    },
+    "deep-dive-big-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-big-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-big-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-big-ta.json": {
+      "size": 846
+    },
+    "deep-dive-big.json": {
+      "size": 4880
+    },
+    "deep-dive-biib-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-biib-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-biib-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-biib-ta.json": {
+      "size": 8360
+    },
+    "deep-dive-biib.json": {
+      "size": 108000
+    },
+    "deep-dive-bito-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-bito-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-bito-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-bito-ta.json": {
+      "size": 7332
+    },
+    "deep-dive-bito.json": {
+      "size": 105134
+    },
+    "deep-dive-bk-chart-daily-fixed.json": {
+      "size": 47270
+    },
+    "deep-dive-bk-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-bk-chart-monthly-fixed.json": {
+      "size": 281
+    },
+    "deep-dive-bk-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-bk-chart-weekly-fixed.json": {
+      "size": 33618
+    },
+    "deep-dive-bk-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-bk-ta.json": {
+      "size": 6779
+    },
+    "deep-dive-bk.json": {
+      "size": 100203
+    },
+    "deep-dive-bkng-chart-daily-fixed.json": {
+      "size": 50871
+    },
+    "deep-dive-bkng-chart-monthly-fixed.json": {
+      "size": 155556
+    },
+    "deep-dive-bkng-chart-weekly-fixed.json": {
+      "size": 36002
+    },
+    "deep-dive-bkng-ta.json": {
+      "size": 2315
+    },
+    "deep-dive-bkng.json": {
+      "size": 57350
+    },
+    "deep-dive-bkr-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-bkr-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-bkr-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-bkr-ta.json": {
+      "size": 8291
+    },
+    "deep-dive-bkr.json": {
+      "size": 106300
+    },
+    "deep-dive-blk-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-blk-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-blk-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-blk-ta.json": {
+      "size": 7591
+    },
+    "deep-dive-blk.json": {
+      "size": 108949
+    },
+    "deep-dive-bmy-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-bmy-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-bmy-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-bmy-ta.json": {
+      "size": 8284
+    },
+    "deep-dive-bmy.json": {
+      "size": 106525
+    },
+    "deep-dive-bnd-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-bnd-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-bnd-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-bnd-ta.json": {
+      "size": 7078
+    },
+    "deep-dive-bnd.json": {
+      "size": 104891
+    },
+    "deep-dive-bntx-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-bntx-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-bntx-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-bntx-ta.json": {
+      "size": 7494
+    },
+    "deep-dive-bntx.json": {
+      "size": 105635
+    },
+    "deep-dive-bsx-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-bsx-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-bsx-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-bsx-ta.json": {
+      "size": 8259
+    },
+    "deep-dive-bsx.json": {
+      "size": 107100
+    },
+    "deep-dive-byd-chart-daily-fixed.json": {
+      "size": 46877
+    },
+    "deep-dive-byd-chart-monthly-fixed.json": {
+      "size": 120291
+    },
+    "deep-dive-byd-chart-weekly-fixed.json": {
+      "size": 33349
+    },
+    "deep-dive-byd-ta.json": {
+      "size": 2030
+    },
+    "deep-dive-byd.json": {
+      "size": 52707
+    },
+    "deep-dive-c-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-c-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-c-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-c-ta.json": {
+      "size": 7400
+    },
+    "deep-dive-c.json": {
+      "size": 105597
+    },
+    "deep-dive-cci-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-cci-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-cci-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-cci-ta.json": {
+      "size": 7836
+    },
+    "deep-dive-cci.json": {
+      "size": 106670
+    },
+    "deep-dive-ccl-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-ccl-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-ccl-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-ccl-complete.json": {
+      "size": 54049
+    },
+    "deep-dive-ccl-ta-complete.json": {
+      "size": 5684
+    },
+    "deep-dive-ccl-ta.json": {
+      "size": 8530
+    },
+    "deep-dive-ccl.json": {
+      "size": 106620
+    },
+    "deep-dive-cl-chart-daily-fixed.json": {
+      "size": 47121
+    },
+    "deep-dive-cl-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-cl-chart-monthly-fixed.json": {
+      "size": 148855
+    },
+    "deep-dive-cl-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-cl-chart-weekly-fixed.json": {
+      "size": 33718
+    },
+    "deep-dive-cl-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-cl-complete.json": {
+      "size": 53566
+    },
+    "deep-dive-cl-ta-complete.json": {
+      "size": 5375
+    },
+    "deep-dive-cl-ta.json": {
+      "size": 8037
+    },
+    "deep-dive-cl.json": {
+      "size": 106181
+    },
+    "deep-dive-cmcsa-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-cmcsa-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-cmcsa-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-cmcsa-ta.json": {
+      "size": 8808
+    },
+    "deep-dive-cmcsa.json": {
+      "size": 106662
+    },
+    "deep-dive-cmg-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-cmg-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-cmg-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-cmg-complete.json": {
+      "size": 53932
+    },
+    "deep-dive-cmg-ta-complete.json": {
+      "size": 5357
+    },
+    "deep-dive-cmg-ta.json": {
+      "size": 8121
+    },
+    "deep-dive-cmg.json": {
+      "size": 106532
+    },
+    "deep-dive-coin-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-coin-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-coin-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-coin-ta.json": {
+      "size": 8592
+    },
+    "deep-dive-coin.json": {
+      "size": 110490
+    },
+    "deep-dive-comp-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-comp-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-comp-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-comp-ta.json": {
+      "size": 7229
+    },
+    "deep-dive-comp.json": {
+      "size": 103515
+    },
+    "deep-dive-cop-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-cop-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-cop-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-cop-ta.json": {
+      "size": 7325
+    },
+    "deep-dive-cop.json": {
+      "size": 105489
+    },
+    "deep-dive-cost-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-cost-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-cost-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-cost-ta.json": {
+      "size": 7963
+    },
+    "deep-dive-cost.json": {
+      "size": 108486
+    },
+    "deep-dive-cpb-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-cpb-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-cpb-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-cpb-ta.json": {
+      "size": 8288
+    },
+    "deep-dive-cpb.json": {
+      "size": 106382
+    },
+    "deep-dive-crm-chart-daily-fixed.json": {
+      "size": 49069
+    },
+    "deep-dive-crm-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-crm-chart-monthly-fixed.json": {
+      "size": 158155
+    },
+    "deep-dive-crm-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-crm-chart-weekly-fixed.json": {
+      "size": 34935
+    },
+    "deep-dive-crm-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-crm-ta.json": {
+      "size": 8248
+    },
+    "deep-dive-crm.json": {
+      "size": 108682
+    },
+    "deep-dive-csco-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-csco-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-csco-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-csco-ta.json": {
+      "size": 8491
+    },
+    "deep-dive-csco.json": {
+      "size": 104508
+    },
+    "deep-dive-cvx-chart-daily-fixed.json": {
+      "size": 49120
+    },
+    "deep-dive-cvx-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-cvx-chart-monthly-fixed.json": {
+      "size": 157351
+    },
+    "deep-dive-cvx-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-cvx-chart-weekly-fixed.json": {
+      "size": 34943
+    },
+    "deep-dive-cvx-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-cvx-ta.json": {
+      "size": 7139
+    },
+    "deep-dive-cvx.json": {
+      "size": 107473
+    },
+    "deep-dive-d-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-d-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-d-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-d-ta.json": {
+      "size": 7339
+    },
+    "deep-dive-d.json": {
+      "size": 104495
+    },
+    "deep-dive-dal-chart-daily-fixed.json": {
+      "size": 47252
+    },
+    "deep-dive-dal-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-dal-chart-monthly-fixed.json": {
+      "size": 151029
+    },
+    "deep-dive-dal-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-dal-chart-weekly-fixed.json": {
+      "size": 33748
+    },
+    "deep-dive-dal-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-dal-complete.json": {
+      "size": 52824
+    },
+    "deep-dive-dal-ta-complete.json": {
+      "size": 5512
+    },
+    "deep-dive-dal-ta.json": {
+      "size": 8268
+    },
+    "deep-dive-dal.json": {
+      "size": 104574
+    },
+    "deep-dive-dash-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-dash-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-dash-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-dash-ta.json": {
+      "size": 7508
+    },
+    "deep-dive-dash.json": {
+      "size": 108015
+    },
+    "deep-dive-dg-chart-daily-fixed.json": {
+      "size": 48433
+    },
+    "deep-dive-dg-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-dg-chart-monthly-fixed.json": {
+      "size": 155352
+    },
+    "deep-dive-dg-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-dg-chart-weekly-fixed.json": {
+      "size": 34654
+    },
+    "deep-dive-dg-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-dg-ta.json": {
+      "size": 7196
+    },
+    "deep-dive-dg.json": {
+      "size": 106667
+    },
+    "deep-dive-dhr-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-dhr-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-dhr-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-dhr-ta.json": {
+      "size": 8632
+    },
+    "deep-dive-dhr.json": {
+      "size": 107939
+    },
+    "deep-dive-dia-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-dia-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-dia-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-dia-ta.json": {
+      "size": 8157
+    },
+    "deep-dive-dia.json": {
+      "size": 105691
+    },
+    "deep-dive-dis-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-dis-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-dis-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-dis-ta.json": {
+      "size": 8503
+    },
+    "deep-dive-dis.json": {
+      "size": 108075
+    },
+    "deep-dive-dlr-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-dlr-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-dlr-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-dlr-ta.json": {
+      "size": 7743
+    },
+    "deep-dive-dlr.json": {
+      "size": 107967
+    },
+    "deep-dive-dltr-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-dltr-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-dltr-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-dltr-ta.json": {
+      "size": 7117
+    },
+    "deep-dive-dltr.json": {
+      "size": 105732
+    },
+    "deep-dive-docu-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-docu-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-docu-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-docu-ta.json": {
+      "size": 8296
+    },
+    "deep-dive-docu.json": {
+      "size": 106802
+    },
+    "deep-dive-dpz-chart-daily-fixed.json": {
+      "size": 48632
+    },
+    "deep-dive-dpz-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-dpz-chart-monthly-fixed.json": {
+      "size": 144070
+    },
+    "deep-dive-dpz-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-dpz-chart-weekly-fixed.json": {
+      "size": 34718
+    },
+    "deep-dive-dpz-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-dpz-complete.json": {
+      "size": 55058
+    },
+    "deep-dive-dpz-ta-complete.json": {
+      "size": 5322
+    },
+    "deep-dive-dpz-ta.json": {
+      "size": 7692
+    },
+    "deep-dive-dpz.json": {
+      "size": 107609
+    },
+    "deep-dive-duk-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-duk-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-duk-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-duk-ta.json": {
+      "size": 7364
+    },
+    "deep-dive-duk.json": {
+      "size": 106632
+    },
+    "deep-dive-dxcm-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-dxcm-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-dxcm-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-dxcm-ta.json": {
+      "size": 8564
+    },
+    "deep-dive-dxcm.json": {
+      "size": 105228
+    },
+    "deep-dive-ed-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-ed-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-ed-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-ed-ta.json": {
+      "size": 7449
+    },
+    "deep-dive-ed.json": {
+      "size": 105966
+    },
+    "deep-dive-el-chart-daily-fixed.json": {
+      "size": 47397
+    },
+    "deep-dive-el-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-el-chart-monthly-fixed.json": {
+      "size": 147689
+    },
+    "deep-dive-el-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-el-chart-weekly-fixed.json": {
+      "size": 34422
+    },
+    "deep-dive-el-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-el-complete.json": {
+      "size": 53911
+    },
+    "deep-dive-el-ta-complete.json": {
+      "size": 5470
+    },
+    "deep-dive-el-ta.json": {
+      "size": 8242
+    },
+    "deep-dive-el.json": {
+      "size": 106508
+    },
+    "deep-dive-eog-chart-daily-fixed.json": {
+      "size": 49028
+    },
+    "deep-dive-eog-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-eog-chart-monthly-fixed.json": {
+      "size": 152794
+    },
+    "deep-dive-eog-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-eog-chart-weekly-fixed.json": {
+      "size": 34813
+    },
+    "deep-dive-eog-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-eog-ta.json": {
+      "size": 7220
+    },
+    "deep-dive-eog.json": {
+      "size": 106613
+    },
+    "deep-dive-eqix-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-eqix-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-eqix-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-eqix-ta.json": {
+      "size": 7915
+    },
+    "deep-dive-eqix.json": {
+      "size": 107604
+    },
+    "deep-dive-eqr-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-eqr-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-eqr-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-eqr-ta.json": {
+      "size": 7936
+    },
+    "deep-dive-eqr.json": {
+      "size": 105028
+    },
+    "deep-dive-etho-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-etho-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-etho-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-etho-ta.json": {
+      "size": 6494
+    },
+    "deep-dive-etho.json": {
+      "size": 102537
+    },
+    "deep-dive-exc-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-exc-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-exc-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-exc-ta.json": {
+      "size": 7311
+    },
+    "deep-dive-exc.json": {
+      "size": 105046
+    },
+    "deep-dive-f-chart-daily-fixed.json": {
+      "size": 47313
+    },
+    "deep-dive-f-chart-monthly-fixed.json": {
+      "size": 154574
+    },
+    "deep-dive-f-chart-weekly-fixed.json": {
+      "size": 33832
+    },
+    "deep-dive-f-ta.json": {
+      "size": 2289
+    },
+    "deep-dive-f.json": {
+      "size": 53038
+    },
+    "deep-dive-fang-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-fang-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-fang-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-fang-ta.json": {
+      "size": 8129
+    },
+    "deep-dive-fang.json": {
+      "size": 107355
+    },
+    "deep-dive-fdx-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-fdx-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-fdx-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-fdx-ta.json": {
+      "size": 8057
+    },
+    "deep-dive-fdx.json": {
+      "size": 107921
+    },
+    "deep-dive-foxa-chart-daily-fixed.json": {
+      "size": 47179
+    },
+    "deep-dive-foxa-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-foxa-chart-monthly-fixed.json": {
+      "size": 143297
+    },
+    "deep-dive-foxa-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-foxa-chart-weekly-fixed.json": {
+      "size": 33678
+    },
+    "deep-dive-foxa-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-foxa-ta.json": {
+      "size": 7773
+    },
+    "deep-dive-foxa.json": {
+      "size": 106231
+    },
+    "deep-dive-frt-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-frt-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-frt-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-frt-ta.json": {
+      "size": 7187
+    },
+    "deep-dive-frt.json": {
+      "size": 104063
+    },
+    "deep-dive-fsr-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-fsr-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-fsr-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-fsr-ta.json": {
+      "size": 846
+    },
+    "deep-dive-fsr.json": {
+      "size": 4881
+    },
+    "deep-dive-gbtc-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-gbtc-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-gbtc-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-gbtc-ta.json": {
+      "size": 7573
+    },
+    "deep-dive-gbtc.json": {
+      "size": 104854
+    },
+    "deep-dive-gd-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-gd-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-gd-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-gd-ta.json": {
+      "size": 7734
+    },
+    "deep-dive-gd.json": {
+      "size": 108078
+    },
+    "deep-dive-ge-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-ge-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-ge-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-ge-ta.json": {
+      "size": 8320
+    },
+    "deep-dive-ge.json": {
+      "size": 107705
+    },
+    "deep-dive-gild-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-gild-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-gild-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-gild-ta.json": {
+      "size": 8532
+    },
+    "deep-dive-gild.json": {
+      "size": 107880
+    },
+    "deep-dive-gis-chart-daily-fixed.json": {
+      "size": 47235
+    },
+    "deep-dive-gis-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-gis-chart-monthly-fixed.json": {
+      "size": 152277
+    },
+    "deep-dive-gis-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-gis-chart-weekly-fixed.json": {
+      "size": 33680
+    },
+    "deep-dive-gis-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-gis-complete.json": {
+      "size": 53653
+    },
+    "deep-dive-gis-ta-complete.json": {
+      "size": 5608
+    },
+    "deep-dive-gis-ta.json": {
+      "size": 8382
+    },
+    "deep-dive-gis.json": {
+      "size": 106211
+    },
+    "deep-dive-gld-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-gld-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-gld-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-gld-ta.json": {
+      "size": 8229
+    },
+    "deep-dive-gld.json": {
+      "size": 111307
+    },
+    "deep-dive-gm-chart-daily-fixed.json": {
+      "size": 47282
+    },
+    "deep-dive-gm-chart-monthly-fixed.json": {
+      "size": 150724
+    },
+    "deep-dive-gm-chart-weekly-fixed.json": {
+      "size": 33736
+    },
+    "deep-dive-gm-ta.json": {
+      "size": 2416
+    },
+    "deep-dive-gm.json": {
+      "size": 53598
+    },
+    "deep-dive-gme-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-gme-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-gme-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-gme-ta.json": {
+      "size": 8705
+    },
+    "deep-dive-gme.json": {
+      "size": 106286
+    },
+    "deep-dive-goev-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-goev-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-goev-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-goev-ta.json": {
+      "size": 847
+    },
+    "deep-dive-goev.json": {
+      "size": 13884
+    },
+    "deep-dive-gogl-chart-daily-fixed.json": {
+      "size": 21319
+    },
+    "deep-dive-gogl-chart-monthly-fixed.json": {
+      "size": 281
+    },
+    "deep-dive-gogl-chart-weekly-fixed.json": {
+      "size": 27692
+    },
+    "deep-dive-gogl-ta.json": {
+      "size": 5026
+    },
+    "deep-dive-gogl.json": {
+      "size": 24990
+    },
+    "deep-dive-goog-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-goog-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-goog-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-goog-ta.json": {
+      "size": 8012
+    },
+    "deep-dive-goog.json": {
+      "size": 108469
+    },
+    "deep-dive-googl-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-googl-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-googl-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-googl-ta.json": {
+      "size": 8761
+    },
+    "deep-dive-googl.json": {
+      "size": 108924
+    },
+    "deep-dive-gs-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-gs-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-gs-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-gs-ta.json": {
+      "size": 8393
+    },
+    "deep-dive-gs.json": {
+      "size": 105640
+    },
+    "deep-dive-h-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-h-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-h-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-h-complete.json": {
+      "size": 54219
+    },
+    "deep-dive-h-ta-complete.json": {
+      "size": 5116
+    },
+    "deep-dive-h-ta.json": {
+      "size": 7307
+    },
+    "deep-dive-h.json": {
+      "size": 105935
+    },
+    "deep-dive-hal-chart-daily-fixed.json": {
+      "size": 47521
+    },
+    "deep-dive-hal-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-hal-chart-monthly-fixed.json": {
+      "size": 151473
+    },
+    "deep-dive-hal-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-hal-chart-weekly-fixed.json": {
+      "size": 33755
+    },
+    "deep-dive-hal-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-hal-ta.json": {
+      "size": 8439
+    },
+    "deep-dive-hal.json": {
+      "size": 106480
+    },
+    "deep-dive-hd-chart-daily-fixed.json": {
+      "size": 48967
+    },
+    "deep-dive-hd-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-hd-chart-monthly-fixed.json": {
+      "size": 157098
+    },
+    "deep-dive-hd-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-hd-chart-weekly-fixed.json": {
+      "size": 34970
+    },
+    "deep-dive-hd-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-hd-ta.json": {
+      "size": 7997
+    },
+    "deep-dive-hd.json": {
+      "size": 107945
+    },
+    "deep-dive-hlt-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-hlt-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-hlt-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-hlt-complete.json": {
+      "size": 54668
+    },
+    "deep-dive-hlt-ta-complete.json": {
+      "size": 5239
+    },
+    "deep-dive-hlt-ta.json": {
+      "size": 7615
+    },
+    "deep-dive-hlt.json": {
+      "size": 106548
+    },
+    "deep-dive-hmc-chart-daily-fixed.json": {
+      "size": 47094
+    },
+    "deep-dive-hmc-chart-monthly-fixed.json": {
+      "size": 144457
+    },
+    "deep-dive-hmc-chart-weekly-fixed.json": {
+      "size": 33450
+    },
+    "deep-dive-hmc-ta.json": {
+      "size": 2067
+    },
+    "deep-dive-hmc.json": {
+      "size": 53525
+    },
+    "deep-dive-hon-chart-daily-fixed.json": {
+      "size": 51115
+    },
+    "deep-dive-hon-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-hon-chart-monthly-fixed.json": {
+      "size": 155631
+    },
+    "deep-dive-hon-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-hon-chart-weekly-fixed.json": {
+      "size": 37504
+    },
+    "deep-dive-hon-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-hon-ta.json": {
+      "size": 7972
+    },
+    "deep-dive-hon.json": {
+      "size": 109566
+    },
+    "deep-dive-hrl-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-hrl-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-hrl-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-hrl-ta.json": {
+      "size": 8327
+    },
+    "deep-dive-hrl.json": {
+      "size": 106265
+    },
+    "deep-dive-hsy-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-hsy-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-hsy-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-hsy-complete.json": {
+      "size": 55466
+    },
+    "deep-dive-hsy-ta.json": {
+      "size": 7739
+    },
+    "deep-dive-hsy.json": {
+      "size": 108073
+    },
+    "deep-dive-hubs-chart-daily-fixed.json": {
+      "size": 48696
+    },
+    "deep-dive-hubs-chart-monthly-fixed.json": {
+      "size": 154756
+    },
+    "deep-dive-hubs-chart-weekly-fixed.json": {
+      "size": 34656
+    },
+    "deep-dive-hubs-ta.json": {
+      "size": 5672
+    },
+    "deep-dive-hubs.json": {
+      "size": 55089
+    },
+    "deep-dive-hyg-chart-daily-fixed.json": {
+      "size": 47519
+    },
+    "deep-dive-hyg-chart-monthly-fixed.json": {
+      "size": 150421
+    },
+    "deep-dive-hyg-chart-weekly-fixed.json": {
+      "size": 33899
+    },
+    "deep-dive-hyg-ta.json": {
+      "size": 5963
+    },
+    "deep-dive-hyg.json": {
+      "size": 53550
+    },
+    "deep-dive-ibb-chart-daily-fixed.json": {
+      "size": 48952
+    },
+    "deep-dive-ibb-chart-monthly-fixed.json": {
+      "size": 147083
+    },
+    "deep-dive-ibb-chart-weekly-fixed.json": {
+      "size": 34788
+    },
+    "deep-dive-ibb-ta.json": {
+      "size": 5526
+    },
+    "deep-dive-ibb.json": {
+      "size": 55398
+    },
+    "deep-dive-ibm-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-ibm-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-ibm-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-ibm-ta.json": {
+      "size": 7956
+    },
+    "deep-dive-ibm.json": {
+      "size": 108357
+    },
+    "deep-dive-ilmn-chart-daily-fixed.json": {
+      "size": 48195
+    },
+    "deep-dive-ilmn-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-ilmn-chart-monthly-fixed.json": {
+      "size": 149103
+    },
+    "deep-dive-ilmn-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-ilmn-chart-weekly-fixed.json": {
+      "size": 34618
+    },
+    "deep-dive-ilmn-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-ilmn-ta.json": {
+      "size": 7430
+    },
+    "deep-dive-ilmn.json": {
+      "size": 105183
+    },
+    "deep-dive-intc-chart-daily-fixed.json": {
+      "size": 47782
+    },
+    "deep-dive-intc-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-intc-chart-monthly-fixed.json": {
+      "size": 159393
+    },
+    "deep-dive-intc-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-intc-chart-weekly-fixed.json": {
+      "size": 33964
+    },
+    "deep-dive-intc-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-intc-ta.json": {
+      "size": 8367
+    },
+    "deep-dive-intc.json": {
+      "size": 107544
+    },
+    "deep-dive-isrg-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-isrg-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-isrg-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-isrg-ta.json": {
+      "size": 8026
+    },
+    "deep-dive-isrg.json": {
+      "size": 107201
+    },
+    "deep-dive-iwm-chart-daily-fixed.json": {
+      "size": 49413
+    },
+    "deep-dive-iwm-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-iwm-chart-monthly-fixed.json": {
+      "size": 157148
+    },
+    "deep-dive-iwm-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-iwm-chart-weekly-fixed.json": {
+      "size": 35226
+    },
+    "deep-dive-iwm-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-iwm-ta.json": {
+      "size": 8477
+    },
+    "deep-dive-iwm.json": {
+      "size": 106741
+    },
+    "deep-dive-izrl-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-izrl-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-izrl-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-izrl-ta.json": {
+      "size": 6486
+    },
+    "deep-dive-izrl.json": {
+      "size": 102374
+    },
+    "deep-dive-jpm-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-jpm-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-jpm-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-jpm-ta.json": {
+      "size": 8373
+    },
+    "deep-dive-jpm.json": {
+      "size": 108257
+    },
+    "deep-dive-khc-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-khc-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-khc-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-khc-complete.json": {
+      "size": 54102
+    },
+    "deep-dive-khc-ta-complete.json": {
+      "size": 5622
+    },
+    "deep-dive-khc-ta.json": {
+      "size": 8517
+    },
+    "deep-dive-khc.json": {
+      "size": 106731
+    },
+    "deep-dive-kim-chart-daily-fixed.json": {
+      "size": 47238
+    },
+    "deep-dive-kim-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-kim-chart-monthly-fixed.json": {
+      "size": 145682
+    },
+    "deep-dive-kim-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-kim-chart-weekly-fixed.json": {
+      "size": 33711
+    },
+    "deep-dive-kim-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-kim-ta.json": {
+      "size": 7619
+    },
+    "deep-dive-kim.json": {
+      "size": 105716
+    },
+    "deep-dive-ko-chart-daily-fixed.json": {
+      "size": 47613
+    },
+    "deep-dive-ko-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-ko-chart-monthly-fixed.json": {
+      "size": 152896
+    },
+    "deep-dive-ko-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-ko-chart-weekly-fixed.json": {
+      "size": 33763
+    },
+    "deep-dive-ko-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-ko-complete.json": {
+      "size": 54070
+    },
+    "deep-dive-ko-ta-complete.json": {
+      "size": 2262
+    },
+    "deep-dive-ko-ta.json": {
+      "size": 7728
+    },
+    "deep-dive-ko.json": {
+      "size": 106686
+    },
+    "deep-dive-lcid-chart-daily-fixed.json": {
+      "size": 46417
+    },
+    "deep-dive-lcid-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-lcid-chart-monthly-fixed.json": {
+      "size": 147677
+    },
+    "deep-dive-lcid-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-lcid-chart-weekly-fixed.json": {
+      "size": 32711
+    },
+    "deep-dive-lcid-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-lcid-ta.json": {
+      "size": 8188
+    },
+    "deep-dive-lcid.json": {
+      "size": 105459
+    },
+    "deep-dive-lhx-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-lhx-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-lhx-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-lhx-ta.json": {
+      "size": 7871
+    },
+    "deep-dive-lhx.json": {
+      "size": 107923
+    },
+    "deep-dive-li-chart-daily-fixed.json": {
+      "size": 47296
+    },
+    "deep-dive-li-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-li-chart-monthly-fixed.json": {
+      "size": 150867
+    },
+    "deep-dive-li-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-li-chart-weekly-fixed.json": {
+      "size": 33744
+    },
+    "deep-dive-li-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-li-ta.json": {
+      "size": 8141
+    },
+    "deep-dive-li.json": {
+      "size": 105757
+    },
+    "deep-dive-lly-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-lly-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-lly-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-lly-ta.json": {
+      "size": 8305
+    },
+    "deep-dive-lly.json": {
+      "size": 108179
+    },
+    "deep-dive-lmnd-chart-daily-fixed.json": {
+      "size": 47064
+    },
+    "deep-dive-lmnd-chart-monthly-fixed.json": {
+      "size": 132790
+    },
+    "deep-dive-lmnd-chart-weekly-fixed.json": {
+      "size": 33484
+    },
+    "deep-dive-lmnd-ta.json": {
+      "size": 5506
+    },
+    "deep-dive-lmnd.json": {
+      "size": 53412
+    },
+    "deep-dive-lmt-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-lmt-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-lmt-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-lmt-ta.json": {
+      "size": 8418
+    },
+    "deep-dive-lmt.json": {
+      "size": 107920
+    },
+    "deep-dive-low-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-low-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-low-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-low-ta.json": {
+      "size": 7396
+    },
+    "deep-dive-low.json": {
+      "size": 107215
+    },
+    "deep-dive-lqd-chart-daily-fixed.json": {
+      "size": 49474
+    },
+    "deep-dive-lqd-chart-monthly-fixed.json": {
+      "size": 156503
+    },
+    "deep-dive-lqd-chart-weekly-fixed.json": {
+      "size": 35196
+    },
+    "deep-dive-lqd-ta.json": {
+      "size": 5722
+    },
+    "deep-dive-lqd.json": {
+      "size": 55988
+    },
+    "deep-dive-luv-chart-daily-fixed.json": {
+      "size": 47359
+    },
+    "deep-dive-luv-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-luv-chart-monthly-fixed.json": {
+      "size": 149609
+    },
+    "deep-dive-luv-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-luv-chart-weekly-fixed.json": {
+      "size": 33700
+    },
+    "deep-dive-luv-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-luv-complete.json": {
+      "size": 53825
+    },
+    "deep-dive-luv-ta-complete.json": {
+      "size": 5767
+    },
+    "deep-dive-luv-ta.json": {
+      "size": 8724
+    },
+    "deep-dive-luv.json": {
+      "size": 106423
+    },
+    "deep-dive-lvs-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-lvs-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-lvs-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-lvs-ta.json": {
+      "size": 8205
+    },
+    "deep-dive-lvs.json": {
+      "size": 106161
+    },
+    "deep-dive-ma-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-ma-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-ma-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-ma-ta.json": {
+      "size": 8536
+    },
+    "deep-dive-ma.json": {
+      "size": 108062
+    },
+    "deep-dive-mar-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-mar-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-mar-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-mar-complete.json": {
+      "size": 54651
+    },
+    "deep-dive-mar-ta.json": {
+      "size": 7892
+    },
+    "deep-dive-mar.json": {
+      "size": 106542
+    },
+    "deep-dive-mcd-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-mcd-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-mcd-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-mcd-complete.json": {
+      "size": 55316
+    },
+    "deep-dive-mcd-ta-complete.json": {
+      "size": 2333
+    },
+    "deep-dive-mcd-ta.json": {
+      "size": 8259
+    },
+    "deep-dive-mcd.json": {
+      "size": 107896
+    },
+    "deep-dive-meta-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-meta-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-meta-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-meta-ta.json": {
+      "size": 8816
+    },
+    "deep-dive-meta.json": {
+      "size": 110240
+    },
+    "deep-dive-mgm-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-mgm-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-mgm-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-mgm-ta.json": {
+      "size": 7918
+    },
+    "deep-dive-mgm.json": {
+      "size": 104483
+    },
+    "deep-dive-mnst-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-mnst-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-mnst-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-mnst-complete.json": {
+      "size": 52655
+    },
+    "deep-dive-mnst-ta-complete.json": {
+      "size": 5360
+    },
+    "deep-dive-mnst-ta.json": {
+      "size": 7834
+    },
+    "deep-dive-mnst.json": {
+      "size": 104254
+    },
+    "deep-dive-mpc-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-mpc-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-mpc-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-mpc-ta.json": {
+      "size": 7078
+    },
+    "deep-dive-mpc.json": {
+      "size": 104899
+    },
+    "deep-dive-mrk-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-mrk-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-mrk-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-mrk-ta.json": {
+      "size": 8136
+    },
+    "deep-dive-mrk.json": {
+      "size": 107171
+    },
+    "deep-dive-mrna-chart-daily-fixed.json": {
+      "size": 47358
+    },
+    "deep-dive-mrna-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-mrna-chart-monthly-fixed.json": {
+      "size": 150352
+    },
+    "deep-dive-mrna-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-mrna-chart-weekly-fixed.json": {
+      "size": 34388
+    },
+    "deep-dive-mrna-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-mrna-ta.json": {
+      "size": 7165
+    },
+    "deep-dive-mrna.json": {
+      "size": 104997
+    },
+    "deep-dive-ms-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-ms-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-ms-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-ms-ta.json": {
+      "size": 6014
+    },
+    "deep-dive-ms.json": {
+      "size": 104401
+    },
+    "deep-dive-msft-chart-daily-fixed.json": {
+      "size": 49361
+    },
+    "deep-dive-msft-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-msft-chart-monthly-fixed.json": {
+      "size": 158346
+    },
+    "deep-dive-msft-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-msft-chart-weekly-fixed.json": {
+      "size": 35159
+    },
+    "deep-dive-msft-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-msft-ta.json": {
+      "size": 7817
+    },
+    "deep-dive-msft.json": {
+      "size": 109572
+    },
+    "deep-dive-mstr-chart-daily-fixed.json": {
+      "size": 49319
+    },
+    "deep-dive-mstr-chart-monthly-fixed.json": {
+      "size": 158164
+    },
+    "deep-dive-mstr-chart-weekly-fixed.json": {
+      "size": 34737
+    },
+    "deep-dive-mstr-ta.json": {
+      "size": 5537
+    },
+    "deep-dive-mstr.json": {
+      "size": 56887
+    },
+    "deep-dive-nclh-chart-daily-fixed.json": {
+      "size": 47513
+    },
+    "deep-dive-nclh-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-nclh-chart-monthly-fixed.json": {
+      "size": 151991
+    },
+    "deep-dive-nclh-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-nclh-chart-weekly-fixed.json": {
+      "size": 33746
+    },
+    "deep-dive-nclh-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-nclh-complete.json": {
+      "size": 54020
+    },
+    "deep-dive-nclh-ta-complete.json": {
+      "size": 5740
+    },
+    "deep-dive-nclh-ta.json": {
+      "size": 8634
+    },
+    "deep-dive-nclh.json": {
+      "size": 106619
+    },
+    "deep-dive-nee-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-nee-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-nee-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-nee-ta.json": {
+      "size": 7369
+    },
+    "deep-dive-nee.json": {
+      "size": 105042
+    },
+    "deep-dive-nflx-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-nflx-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-nflx-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-nflx-ta.json": {
+      "size": 8726
+    },
+    "deep-dive-nflx.json": {
+      "size": 108089
+    },
+    "deep-dive-nio-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-nio-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-nio-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-nio-ta.json": {
+      "size": 8542
+    },
+    "deep-dive-nio.json": {
+      "size": 104705
+    },
+    "deep-dive-nke-chart-daily-fixed.json": {
+      "size": 47524
+    },
+    "deep-dive-nke-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-nke-chart-monthly-fixed.json": {
+      "size": 153644
+    },
+    "deep-dive-nke-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-nke-chart-weekly-fixed.json": {
+      "size": 34363
+    },
+    "deep-dive-nke-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-nke-ta.json": {
+      "size": 8200
+    },
+    "deep-dive-nke.json": {
+      "size": 106473
+    },
+    "deep-dive-noc-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-noc-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-noc-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-noc-ta.json": {
+      "size": 7648
+    },
+    "deep-dive-noc.json": {
+      "size": 107192
+    },
+    "deep-dive-nok-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-nok-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-nok-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-nok-ta.json": {
+      "size": 8481
+    },
+    "deep-dive-nok.json": {
+      "size": 103474
+    },
+    "deep-dive-nvda-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-nvda-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-nvda-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-nvda-ta.json": {
+      "size": 8376
+    },
+    "deep-dive-nvda.json": {
+      "size": 110756
+    },
+    "deep-dive-nvo-chart-daily-fixed.json": {
+      "size": 47521
+    },
+    "deep-dive-nvo-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-nvo-chart-monthly-fixed.json": {
+      "size": 153690
+    },
+    "deep-dive-nvo-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-nvo-chart-weekly-fixed.json": {
+      "size": 34204
+    },
+    "deep-dive-nvo-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-nvo-ta.json": {
+      "size": 8400
+    },
+    "deep-dive-nvo.json": {
+      "size": 106451
+    },
+    "deep-dive-nws-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-nws-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-nws-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-nws-ta.json": {
+      "size": 7455
+    },
+    "deep-dive-nws.json": {
+      "size": 104617
+    },
+    "deep-dive-o-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-o-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-o-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-o-ta.json": {
+      "size": 8133
+    },
+    "deep-dive-o.json": {
+      "size": 106309
+    },
+    "deep-dive-open-chart-daily-fixed.json": {
+      "size": 48415
+    },
+    "deep-dive-open-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-open-chart-monthly-fixed.json": {
+      "size": 147914
+    },
+    "deep-dive-open-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-open-chart-weekly-fixed.json": {
+      "size": 35683
+    },
+    "deep-dive-open-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-open-ta.json": {
+      "size": 7051
+    },
+    "deep-dive-open.json": {
+      "size": 106058
+    },
+    "deep-dive-orcl-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-orcl-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-orcl-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-orcl-ta.json": {
+      "size": 8336
+    },
+    "deep-dive-orcl.json": {
+      "size": 108866
+    },
+    "deep-dive-otly-chart-daily-fixed.json": {
+      "size": 46308
+    },
+    "deep-dive-otly-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-otly-chart-monthly-fixed.json": {
+      "size": 30435
+    },
+    "deep-dive-otly-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-otly-chart-weekly-fixed.json": {
+      "size": 33501
+    },
+    "deep-dive-otly-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-otly-ta.json": {
+      "size": 7671
+    },
+    "deep-dive-otly.json": {
+      "size": 105320
+    },
+    "deep-dive-oxy-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-oxy-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-oxy-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-oxy-ta.json": {
+      "size": 7327
+    },
+    "deep-dive-oxy.json": {
+      "size": 105098
+    },
+    "deep-dive-para-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-para-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-para-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-para-ta.json": {
+      "size": 7310
+    },
+    "deep-dive-para.json": {
+      "size": 47841
+    },
+    "deep-dive-peg-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-peg-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-peg-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-peg-ta.json": {
+      "size": 7617
+    },
+    "deep-dive-peg.json": {
+      "size": 105877
+    },
+    "deep-dive-pep-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-pep-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-pep-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-pep-complete.json": {
+      "size": 55585
+    },
+    "deep-dive-pep-ta-complete.json": {
+      "size": 2454
+    },
+    "deep-dive-pep-ta.json": {
+      "size": 8390
+    },
+    "deep-dive-pep.json": {
+      "size": 108190
+    },
+    "deep-dive-pfe-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-pfe-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-pfe-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-pfe-ta.json": {
+      "size": 8617
+    },
+    "deep-dive-pfe.json": {
+      "size": 106664
+    },
+    "deep-dive-pg-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-pg-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-pg-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-pg-complete.json": {
+      "size": 55656
+    },
+    "deep-dive-pg-ta-complete.json": {
+      "size": 5745
+    },
+    "deep-dive-pg-ta.json": {
+      "size": 8558
+    },
+    "deep-dive-pg.json": {
+      "size": 108252
+    },
+    "deep-dive-pins-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-pins-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-pins-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-pins-ta.json": {
+      "size": 8227
+    },
+    "deep-dive-pins.json": {
+      "size": 106494
+    },
+    "deep-dive-pld-chart-daily-fixed.json": {
+      "size": 48964
+    },
+    "deep-dive-pld-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-pld-chart-monthly-fixed.json": {
+      "size": 154778
+    },
+    "deep-dive-pld-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-pld-chart-weekly-fixed.json": {
+      "size": 34919
+    },
+    "deep-dive-pld-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-pld-ta.json": {
+      "size": 8255
+    },
+    "deep-dive-pld.json": {
+      "size": 108042
+    },
+    "deep-dive-pltr-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-pltr-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-pltr-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-pltr-ta.json": {
+      "size": 8616
+    },
+    "deep-dive-pltr.json": {
+      "size": 108102
+    },
+    "deep-dive-pnc-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-pnc-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-pnc-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-pnc-ta.json": {
+      "size": 7619
+    },
+    "deep-dive-pnc.json": {
+      "size": 108056
+    },
+    "deep-dive-psx-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-psx-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-psx-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-psx-ta.json": {
+      "size": 7095
+    },
+    "deep-dive-psx.json": {
+      "size": 106012
+    },
+    "deep-dive-pton-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-pton-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-pton-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-pton-ta.json": {
+      "size": 8243
+    },
+    "deep-dive-pton.json": {
+      "size": 104681
+    },
+    "deep-dive-pxd-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-pxd-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-pxd-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-pxd-ta.json": {
+      "size": 846
+    },
+    "deep-dive-pxd.json": {
+      "size": 4881
+    },
+    "deep-dive-pypl-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-pypl-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-pypl-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-pypl-ta.json": {
+      "size": 8512
+    },
+    "deep-dive-pypl.json": {
+      "size": 106592
+    },
+    "deep-dive-qcom-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-qcom-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-qcom-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-qcom-ta.json": {
+      "size": 8449
+    },
+    "deep-dive-qcom.json": {
+      "size": 108742
+    },
+    "deep-dive-qqq-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-qqq-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-qqq-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-qqq-ta.json": {
+      "size": 8101
+    },
+    "deep-dive-qqq.json": {
+      "size": 106624
+    },
+    "deep-dive-race-chart-daily-fixed.json": {
+      "size": 48614
+    },
+    "deep-dive-race-chart-monthly-fixed.json": {
+      "size": 148393
+    },
+    "deep-dive-race-chart-weekly-fixed.json": {
+      "size": 34647
+    },
+    "deep-dive-race-ta.json": {
+      "size": 2028
+    },
+    "deep-dive-race.json": {
+      "size": 55011
+    },
+    "deep-dive-rblx-chart-daily-fixed.json": {
+      "size": 47790
+    },
+    "deep-dive-rblx-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-rblx-chart-monthly-fixed.json": {
+      "size": 151493
+    },
+    "deep-dive-rblx-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-rblx-chart-weekly-fixed.json": {
+      "size": 33881
+    },
+    "deep-dive-rblx-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-rblx-ta.json": {
+      "size": 7883
+    },
+    "deep-dive-rblx.json": {
+      "size": 106760
+    },
+    "deep-dive-rcl-chart-daily-fixed.json": {
+      "size": 48883
+    },
+    "deep-dive-rcl-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-rcl-chart-monthly-fixed.json": {
+      "size": 154812
+    },
+    "deep-dive-rcl-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-rcl-chart-weekly-fixed.json": {
+      "size": 34263
+    },
+    "deep-dive-rcl-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-rcl-complete.json": {
+      "size": 55319
+    },
+    "deep-dive-rcl-ta-complete.json": {
+      "size": 5796
+    },
+    "deep-dive-rcl-ta.json": {
+      "size": 8743
+    },
+    "deep-dive-rcl.json": {
+      "size": 107902
+    },
+    "deep-dive-reg-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-reg-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-reg-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-reg-ta.json": {
+      "size": 7683
+    },
+    "deep-dive-reg.json": {
+      "size": 106041
+    },
+    "deep-dive-regn-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-regn-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-regn-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-regn-ta.json": {
+      "size": 7656
+    },
+    "deep-dive-regn.json": {
+      "size": 107694
+    },
+    "deep-dive-rivn-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-rivn-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-rivn-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-rivn-ta.json": {
+      "size": 8233
+    },
+    "deep-dive-rivn.json": {
+      "size": 106698
+    },
+    "deep-dive-rklb-chart-daily-fixed.json": {
+      "size": 47636
+    },
+    "deep-dive-rklb-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-rklb-chart-monthly-fixed.json": {
+      "size": 158483
+    },
+    "deep-dive-rklb-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-rklb-chart-weekly-fixed.json": {
+      "size": 31551
+    },
+    "deep-dive-rklb-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-rklb-ta.json": {
+      "size": 8051
+    },
+    "deep-dive-rklb.json": {
+      "size": 106537
+    },
+    "deep-dive-rkt-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-rkt-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-rkt-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-rkt-ta.json": {
+      "size": 7315
+    },
+    "deep-dive-rkt.json": {
+      "size": 105142
+    },
+    "deep-dive-roku-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-roku-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-roku-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-roku-ta.json": {
+      "size": 8264
+    },
+    "deep-dive-roku.json": {
+      "size": 106389
+    },
+    "deep-dive-rtx-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-rtx-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-rtx-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-rtx-ta.json": {
+      "size": 8837
+    },
+    "deep-dive-rtx.json": {
+      "size": 108081
+    },
+    "deep-dive-s-chart-daily-fixed.json": {
+      "size": 47290
+    },
+    "deep-dive-s-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-s-chart-monthly-fixed.json": {
+      "size": 152606
+    },
+    "deep-dive-s-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-s-chart-weekly-fixed.json": {
+      "size": 33154
+    },
+    "deep-dive-s-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-s-ta.json": {
+      "size": 8352
+    },
+    "deep-dive-s.json": {
+      "size": 106329
+    },
+    "deep-dive-sbux-chart-daily-fixed.json": {
+      "size": 47586
+    },
+    "deep-dive-sbux-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-sbux-chart-monthly-fixed.json": {
+      "size": 153778
+    },
+    "deep-dive-sbux-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-sbux-chart-weekly-fixed.json": {
+      "size": 34103
+    },
+    "deep-dive-sbux-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-sbux-complete.json": {
+      "size": 54035
+    },
+    "deep-dive-sbux-ta-complete.json": {
+      "size": 2206
+    },
+    "deep-dive-sbux-ta.json": {
+      "size": 8048
+    },
+    "deep-dive-sbux.json": {
+      "size": 106616
+    },
+    "deep-dive-schw-chart-daily-fixed.json": {
+      "size": 47444
+    },
+    "deep-dive-schw-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-schw-chart-monthly-fixed.json": {
+      "size": 151324
+    },
+    "deep-dive-schw-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-schw-chart-weekly-fixed.json": {
+      "size": 33704
+    },
+    "deep-dive-schw-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-schw-ta.json": {
+      "size": 8255
+    },
+    "deep-dive-schw.json": {
+      "size": 106511
+    },
+    "deep-dive-shop-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-shop-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-shop-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-shop-ta.json": {
+      "size": 8339
+    },
+    "deep-dive-shop.json": {
+      "size": 107974
+    },
+    "deep-dive-sjm-chart-daily-fixed.json": {
+      "size": 48589
+    },
+    "deep-dive-sjm-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-sjm-chart-monthly-fixed.json": {
+      "size": 136753
+    },
+    "deep-dive-sjm-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-sjm-chart-weekly-fixed.json": {
+      "size": 34660
+    },
+    "deep-dive-sjm-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-sjm-ta.json": {
+      "size": 7621
+    },
+    "deep-dive-sjm.json": {
+      "size": 107695
+    },
+    "deep-dive-slb-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-slb-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-slb-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-slb-ta.json": {
+      "size": 7260
+    },
+    "deep-dive-slb.json": {
+      "size": 105191
+    },
+    "deep-dive-slv-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-slv-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-slv-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-slv-ta.json": {
+      "size": 8383
+    },
+    "deep-dive-slv.json": {
+      "size": 107256
+    },
+    "deep-dive-smh-chart-daily-fixed.json": {
+      "size": 49086
+    },
+    "deep-dive-smh-chart-monthly-fixed.json": {
+      "size": 157232
+    },
+    "deep-dive-smh-chart-weekly-fixed.json": {
+      "size": 35164
+    },
+    "deep-dive-smh-ta.json": {
+      "size": 5387
+    },
+    "deep-dive-smh.json": {
+      "size": 55949
+    },
+    "deep-dive-snap-chart-daily-fixed.json": {
+      "size": 46026
+    },
+    "deep-dive-snap-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-snap-chart-monthly-fixed.json": {
+      "size": 146783
+    },
+    "deep-dive-snap-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-snap-chart-weekly-fixed.json": {
+      "size": 33392
+    },
+    "deep-dive-snap-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-snap-ta.json": {
+      "size": 8270
+    },
+    "deep-dive-snap.json": {
+      "size": 105076
+    },
+    "deep-dive-so-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-so-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-so-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-so-ta.json": {
+      "size": 7410
+    },
+    "deep-dive-so.json": {
+      "size": 104868
+    },
+    "deep-dive-sofi-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-sofi-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-sofi-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-sofi-ta.json": {
+      "size": 8337
+    },
+    "deep-dive-sofi.json": {
+      "size": 107211
+    },
+    "deep-dive-soxx-chart-daily-fixed.json": {
+      "size": 49035
+    },
+    "deep-dive-soxx-chart-monthly-fixed.json": {
+      "size": 156910
+    },
+    "deep-dive-soxx-chart-weekly-fixed.json": {
+      "size": 35728
+    },
+    "deep-dive-soxx-ta.json": {
+      "size": 5617
+    },
+    "deep-dive-soxx.json": {
+      "size": 56415
+    },
+    "deep-dive-spce-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-spce-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-spce-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-spce-ta.json": {
+      "size": 6126
+    },
+    "deep-dive-spce.json": {
+      "size": 101717
+    },
+    "deep-dive-spg-chart-daily-fixed.json": {
+      "size": 48949
+    },
+    "deep-dive-spg-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-spg-chart-monthly-fixed.json": {
+      "size": 138992
+    },
+    "deep-dive-spg-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-spg-chart-weekly-fixed.json": {
+      "size": 34687
+    },
+    "deep-dive-spg-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-spg-ta.json": {
+      "size": 7993
+    },
+    "deep-dive-spg.json": {
+      "size": 107483
+    },
+    "deep-dive-spy-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-spy-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-spy-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-spy-ta.json": {
+      "size": 8532
+    },
+    "deep-dive-spy.json": {
+      "size": 106400
+    },
+    "deep-dive-sq-chart-daily-fixed.json": {
+      "size": 3749
+    },
+    "deep-dive-sq-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-sq-chart-monthly-fixed.json": {
+      "size": 281
+    },
+    "deep-dive-sq-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-sq-chart-weekly-fixed.json": {
+      "size": 24692
+    },
+    "deep-dive-sq-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-sq-ta.json": {
+      "size": 845
+    },
+    "deep-dive-sq.json": {
+      "size": 12465
+    },
+    "deep-dive-sre-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-sre-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-sre-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-sre-ta.json": {
+      "size": 7417
+    },
+    "deep-dive-sre.json": {
+      "size": 104838
+    },
+    "deep-dive-stla-chart-daily-fixed.json": {
+      "size": 46648
+    },
+    "deep-dive-stla-chart-monthly-fixed.json": {
+      "size": 145103
+    },
+    "deep-dive-stla-chart-weekly-fixed.json": {
+      "size": 33564
+    },
+    "deep-dive-stla-ta.json": {
+      "size": 2430
+    },
+    "deep-dive-stla.json": {
+      "size": 53055
+    },
+    "deep-dive-stt-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-stt-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-stt-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-stt-ta.json": {
+      "size": 7338
+    },
+    "deep-dive-stt.json": {
+      "size": 105043
+    },
+    "deep-dive-syk-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-syk-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-syk-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-syk-ta.json": {
+      "size": 7802
+    },
+    "deep-dive-syk.json": {
+      "size": 107860
+    },
+    "deep-dive-t-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-t-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-t-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-t-ta.json": {
+      "size": 8867
+    },
+    "deep-dive-t.json": {
+      "size": 106639
+    },
+    "deep-dive-tdg-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-tdg-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-tdg-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-tdg-ta.json": {
+      "size": 7647
+    },
+    "deep-dive-tdg.json": {
+      "size": 109458
+    },
+    "deep-dive-tesn-chart-daily-fixed.json": {
+      "size": 47180
+    },
+    "deep-dive-tesn-chart-monthly-fixed.json": {
+      "size": 281
+    },
+    "deep-dive-tesn-chart-weekly-fixed.json": {
+      "size": 35533
+    },
+    "deep-dive-tesn-ta.json": {
+      "size": 654
+    },
+    "deep-dive-tesn.json": {
+      "size": 3567
+    },
+    "deep-dive-tgt-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-tgt-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-tgt-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-tgt-ta.json": {
+      "size": 7239
+    },
+    "deep-dive-tgt.json": {
+      "size": 105850
+    },
+    "deep-dive-tlt-chart-daily-fixed.json": {
+      "size": 47689
+    },
+    "deep-dive-tlt-chart-monthly-fixed.json": {
+      "size": 153089
+    },
+    "deep-dive-tlt-chart-weekly-fixed.json": {
+      "size": 34450
+    },
+    "deep-dive-tlt-ta.json": {
+      "size": 5453
+    },
+    "deep-dive-tlt.json": {
+      "size": 54523
+    },
+    "deep-dive-tm-chart-daily-fixed.json": {
+      "size": 48652
+    },
+    "deep-dive-tm-chart-monthly-fixed.json": {
+      "size": 108041
+    },
+    "deep-dive-tm-chart-weekly-fixed.json": {
+      "size": 34693
+    },
+    "deep-dive-tm-ta.json": {
+      "size": 1881
+    },
+    "deep-dive-tm.json": {
+      "size": 55114
+    },
+    "deep-dive-tmo-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-tmo-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-tmo-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-tmo-ta.json": {
+      "size": 7689
+    },
+    "deep-dive-tmo.json": {
+      "size": 108030
+    },
+    "deep-dive-tmus-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-tmus-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-tmus-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-tmus-ta.json": {
+      "size": 8307
+    },
+    "deep-dive-tmus.json": {
+      "size": 108086
+    },
+    "deep-dive-tsla-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-tsla-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-tsla-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-tsla-ta.json": {
+      "size": 8565
+    },
+    "deep-dive-tsla.json": {
+      "size": 110282
+    },
+    "deep-dive-tsn-chart-daily-fixed.json": {
+      "size": 47180
+    },
+    "deep-dive-tsn-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-tsn-chart-monthly-fixed.json": {
+      "size": 148013
+    },
+    "deep-dive-tsn-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-tsn-chart-weekly-fixed.json": {
+      "size": 33659
+    },
+    "deep-dive-tsn-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-tsn-ta.json": {
+      "size": 8114
+    },
+    "deep-dive-tsn.json": {
+      "size": 106220
+    },
+    "deep-dive-twlo-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-twlo-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-twlo-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-twlo-ta.json": {
+      "size": 7518
+    },
+    "deep-dive-twlo.json": {
+      "size": 105872
+    },
+    "deep-dive-twtr-chart-daily-fixed.json": {
+      "size": 281
+    },
+    "deep-dive-twtr-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-twtr-chart-monthly-fixed.json": {
+      "size": 281
+    },
+    "deep-dive-twtr-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-twtr-chart-weekly-fixed.json": {
+      "size": 9745
+    },
+    "deep-dive-twtr-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-twtr-ta.json": {
+      "size": 847
+    },
+    "deep-dive-twtr.json": {
+      "size": 4882
+    },
+    "deep-dive-txn-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-txn-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-txn-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-txn-ta.json": {
+      "size": 8393
+    },
+    "deep-dive-txn.json": {
+      "size": 108541
+    },
+    "deep-dive-u-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-u-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-u-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-u-ta.json": {
+      "size": 8289
+    },
+    "deep-dive-u.json": {
+      "size": 106381
+    },
+    "deep-dive-ual-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-ual-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-ual-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-ual-complete.json": {
+      "size": 54337
+    },
+    "deep-dive-ual-ta-complete.json": {
+      "size": 5609
+    },
+    "deep-dive-ual-ta.json": {
+      "size": 8443
+    },
+    "deep-dive-ual.json": {
+      "size": 106913
+    },
+    "deep-dive-uber-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-uber-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-uber-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-uber-ta.json": {
+      "size": 8510
+    },
+    "deep-dive-uber.json": {
+      "size": 106582
+    },
+    "deep-dive-ul-complete.json": {
+      "size": 56191
+    },
+    "deep-dive-ung-chart-daily-fixed.json": {
+      "size": 47527
+    },
+    "deep-dive-ung-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-ung-chart-monthly-fixed.json": {
+      "size": 147754
+    },
+    "deep-dive-ung-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-ung-chart-weekly-fixed.json": {
+      "size": 33791
+    },
+    "deep-dive-ung-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-ung-ta.json": {
+      "size": 7329
+    },
+    "deep-dive-ung.json": {
+      "size": 105275
+    },
+    "deep-dive-ups-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-ups-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-ups-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-ups-ta.json": {
+      "size": 8343
+    },
+    "deep-dive-ups.json": {
+      "size": 107207
+    },
+    "deep-dive-upst-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-upst-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-upst-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-upst-ta.json": {
+      "size": 8669
+    },
+    "deep-dive-upst.json": {
+      "size": 106239
+    },
+    "deep-dive-usb-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-usb-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-usb-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-usb-ta.json": {
+      "size": 7468
+    },
+    "deep-dive-usb.json": {
+      "size": 105111
+    },
+    "deep-dive-uso-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-uso-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-uso-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-uso-ta.json": {
+      "size": 8326
+    },
+    "deep-dive-uso.json": {
+      "size": 109379
+    },
+    "deep-dive-v-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-v-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-v-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-v-ta.json": {
+      "size": 8648
+    },
+    "deep-dive-v.json": {
+      "size": 108081
+    },
+    "deep-dive-vea-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-vea-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-vea-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-vea-ta.json": {
+      "size": 6831
+    },
+    "deep-dive-vea.json": {
+      "size": 103664
+    },
+    "deep-dive-vix-chart-daily-fixed.json": {
+      "size": 281
+    },
+    "deep-dive-vix-chart-monthly-fixed.json": {
+      "size": 281
+    },
+    "deep-dive-vix-chart-weekly-fixed.json": {
+      "size": 281
+    },
+    "deep-dive-vix-ta.json": {
+      "size": 645
+    },
+    "deep-dive-vix.json": {
+      "size": 4226
+    },
+    "deep-dive-vlo-chart-daily-fixed.json": {
+      "size": 49006
+    },
+    "deep-dive-vlo-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-vlo-chart-monthly-fixed.json": {
+      "size": 151681
+    },
+    "deep-dive-vlo-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-vlo-chart-weekly-fixed.json": {
+      "size": 34707
+    },
+    "deep-dive-vlo-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-vlo-ta.json": {
+      "size": 7270
+    },
+    "deep-dive-vlo.json": {
+      "size": 105529
+    },
+    "deep-dive-voo-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-voo-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-voo-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-voo-ta.json": {
+      "size": 6624
+    },
+    "deep-dive-voo.json": {
+      "size": 104723
+    },
+    "deep-dive-vrtx-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-vrtx-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-vrtx-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-vrtx-ta.json": {
+      "size": 7812
+    },
+    "deep-dive-vrtx.json": {
+      "size": 108051
+    },
+    "deep-dive-vti-chart-daily-fixed.json": {
+      "size": 49056
+    },
+    "deep-dive-vti-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-vti-chart-monthly-fixed.json": {
+      "size": 157519
+    },
+    "deep-dive-vti-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-vti-chart-weekly-fixed.json": {
+      "size": 35037
+    },
+    "deep-dive-vti-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-vti-ta.json": {
+      "size": 6365
+    },
+    "deep-dive-vti.json": {
+      "size": 104978
+    },
+    "deep-dive-vwo-chart-daily-fixed.json": {
+      "size": 47532
+    },
+    "deep-dive-vwo-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-vwo-chart-monthly-fixed.json": {
+      "size": 153463
+    },
+    "deep-dive-vwo-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-vwo-chart-weekly-fixed.json": {
+      "size": 33835
+    },
+    "deep-dive-vwo-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-vwo-ta.json": {
+      "size": 6348
+    },
+    "deep-dive-vwo.json": {
+      "size": 103492
+    },
+    "deep-dive-vz-chart-daily-fixed.json": {
+      "size": 47600
+    },
+    "deep-dive-vz-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-vz-chart-monthly-fixed.json": {
+      "size": 153716
+    },
+    "deep-dive-vz-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-vz-chart-weekly-fixed.json": {
+      "size": 33822
+    },
+    "deep-dive-vz-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-vz-ta.json": {
+      "size": 8300
+    },
+    "deep-dive-vz.json": {
+      "size": 106706
+    },
+    "deep-dive-wbd-chart-daily-fixed.json": {
+      "size": 47344
+    },
+    "deep-dive-wbd-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-wbd-chart-monthly-fixed.json": {
+      "size": 150915
+    },
+    "deep-dive-wbd-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-wbd-chart-weekly-fixed.json": {
+      "size": 27886
+    },
+    "deep-dive-wbd-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-wbd-ta.json": {
+      "size": 8878
+    },
+    "deep-dive-wbd.json": {
+      "size": 106508
+    },
+    "deep-dive-wday-chart-daily-fixed.json": {
+      "size": 48977
+    },
+    "deep-dive-wday-chart-monthly-fixed.json": {
+      "size": 156372
+    },
+    "deep-dive-wday-chart-weekly-fixed.json": {
+      "size": 34837
+    },
+    "deep-dive-wday-ta.json": {
+      "size": 5549
+    },
+    "deep-dive-wday.json": {
+      "size": 55471
+    },
+    "deep-dive-wdfc-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-wdfc-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-wdfc-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-wdfc-ta.json": {
+      "size": 7772
+    },
+    "deep-dive-wdfc.json": {
+      "size": 107589
+    },
+    "deep-dive-well-chart-daily-fixed.json": {
+      "size": 49011
+    },
+    "deep-dive-well-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-well-chart-monthly-fixed.json": {
+      "size": 153183
+    },
+    "deep-dive-well-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-well-chart-weekly-fixed.json": {
+      "size": 34116
+    },
+    "deep-dive-well-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-well-ta.json": {
+      "size": 7830
+    },
+    "deep-dive-well.json": {
+      "size": 108015
+    },
+    "deep-dive-wfc-chart-daily-fixed.json": {
+      "size": 47597
+    },
+    "deep-dive-wfc-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-wfc-chart-monthly-fixed.json": {
+      "size": 151820
+    },
+    "deep-dive-wfc-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-wfc-chart-weekly-fixed.json": {
+      "size": 33831
+    },
+    "deep-dive-wfc-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-wfc-ta.json": {
+      "size": 7311
+    },
+    "deep-dive-wfc.json": {
+      "size": 105210
+    },
+    "deep-dive-wkhs-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-wkhs-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-wkhs-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-wkhs-ta.json": {
+      "size": 7166
+    },
+    "deep-dive-wkhs.json": {
+      "size": 104631
+    },
+    "deep-dive-wmt-chart-daily-fixed.json": {
+      "size": 48614
+    },
+    "deep-dive-wmt-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-wmt-chart-monthly-fixed.json": {
+      "size": 158630
+    },
+    "deep-dive-wmt-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-wmt-chart-weekly-fixed.json": {
+      "size": 34773
+    },
+    "deep-dive-wmt-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-wmt-ta.json": {
+      "size": 7753
+    },
+    "deep-dive-wmt.json": {
+      "size": 107705
+    },
+    "deep-dive-wynn-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-wynn-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-wynn-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-wynn-ta.json": {
+      "size": 8058
+    },
+    "deep-dive-wynn.json": {
+      "size": 107202
+    },
+    "deep-dive-xbi-chart-daily-fixed.json": {
+      "size": 48094
+    },
+    "deep-dive-xbi-chart-monthly-fixed.json": {
+      "size": 154787
+    },
+    "deep-dive-xbi-chart-weekly-fixed.json": {
+      "size": 34031
+    },
+    "deep-dive-xbi-ta.json": {
+      "size": 5559
+    },
+    "deep-dive-xbi.json": {
+      "size": 54213
+    },
+    "deep-dive-xlb-chart-daily-fixed.json": {
+      "size": 48054
+    },
+    "deep-dive-xlb-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-xlb-chart-monthly-fixed.json": {
+      "size": 149492
+    },
+    "deep-dive-xlb-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-xlb-chart-weekly-fixed.json": {
+      "size": 34291
+    },
+    "deep-dive-xlb-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-xlb-ta.json": {
+      "size": 8003
+    },
+    "deep-dive-xlb.json": {
+      "size": 107121
+    },
+    "deep-dive-xlc-chart-daily-fixed.json": {
+      "size": 48702
+    },
+    "deep-dive-xlc-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-xlc-chart-monthly-fixed.json": {
+      "size": 154026
+    },
+    "deep-dive-xlc-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-xlc-chart-weekly-fixed.json": {
+      "size": 34056
+    },
+    "deep-dive-xlc-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-xlc-ta.json": {
+      "size": 7973
+    },
+    "deep-dive-xlc.json": {
+      "size": 107857
+    },
+    "deep-dive-xle-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-xle-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-xle-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-xle-ta.json": {
+      "size": 8295
+    },
+    "deep-dive-xle.json": {
+      "size": 108381
+    },
+    "deep-dive-xlf-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-xlf-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-xlf-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-xlf-ta.json": {
+      "size": 8464
+    },
+    "deep-dive-xlf.json": {
+      "size": 107410
+    },
+    "deep-dive-xli-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-xli-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-xli-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-xli-ta.json": {
+      "size": 7635
+    },
+    "deep-dive-xli.json": {
+      "size": 107014
+    },
+    "deep-dive-xlk-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-xlk-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-xlk-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-xlk-ta.json": {
+      "size": 8259
+    },
+    "deep-dive-xlk.json": {
+      "size": 107395
+    },
+    "deep-dive-xlp-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-xlp-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-xlp-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-xlp-ta.json": {
+      "size": 8599
+    },
+    "deep-dive-xlp.json": {
+      "size": 107251
+    },
+    "deep-dive-xlre-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-xlre-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-xlre-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-xlre-ta.json": {
+      "size": 7992
+    },
+    "deep-dive-xlre.json": {
+      "size": 106169
+    },
+    "deep-dive-xlu-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-xlu-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-xlu-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-xlu-ta.json": {
+      "size": 8599
+    },
+    "deep-dive-xlu.json": {
+      "size": 107890
+    },
+    "deep-dive-xlv-chart-daily-fixed.json": {
+      "size": 49284
+    },
+    "deep-dive-xlv-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-xlv-chart-monthly-fixed.json": {
+      "size": 157251
+    },
+    "deep-dive-xlv-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-xlv-chart-weekly-fixed.json": {
+      "size": 35012
+    },
+    "deep-dive-xlv-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-xlv-ta.json": {
+      "size": 8577
+    },
+    "deep-dive-xlv.json": {
+      "size": 108350
+    },
+    "deep-dive-xly-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-xly-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-xly-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-xly-ta.json": {
+      "size": 8665
+    },
+    "deep-dive-xly.json": {
+      "size": 108675
+    },
+    "deep-dive-xom-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-xom-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-xom-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-xom-ta.json": {
+      "size": 7234
+    },
+    "deep-dive-xom.json": {
+      "size": 107755
+    },
+    "deep-dive-xpev-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-xpev-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-xpev-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-xpev-ta.json": {
+      "size": 8690
+    },
+    "deep-dive-xpev.json": {
+      "size": 106436
+    },
+    "deep-dive-yum-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-yum-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-yum-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-yum-complete.json": {
+      "size": 55431
+    },
+    "deep-dive-yum-ta-complete.json": {
+      "size": 5021
+    },
+    "deep-dive-yum-ta.json": {
+      "size": 7260
+    },
+    "deep-dive-yum.json": {
+      "size": 108038
+    },
+    "deep-dive-zbh-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-zbh-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-zbh-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-zbh-ta.json": {
+      "size": 7857
+    },
+    "deep-dive-zbh.json": {
+      "size": 106872
+    },
+    "deep-dive-zm-chart-daily-fixed.json": {
+      "size": 47249
+    },
+    "deep-dive-zm-chart-daily.json": {
+      "size": 121
+    },
+    "deep-dive-zm-chart-monthly-fixed.json": {
+      "size": 154345
+    },
+    "deep-dive-zm-chart-monthly.json": {
+      "size": 123
+    },
+    "deep-dive-zm-chart-weekly-fixed.json": {
+      "size": 33995
+    },
+    "deep-dive-zm-chart-weekly.json": {
+      "size": 122
+    },
+    "deep-dive-zm-ta.json": {
+      "size": 8341
+    },
+    "deep-dive-zm.json": {
+      "size": 104617
+    },
+    "flow-digest-2026-05-15.json": {
+      "size": 34079
+    },
+    "flow-digest-2026-05-18.json": {
+      "size": 48258
+    },
+    "flow-digest-2026-05-19.json": {
+      "size": 34830
+    },
+    "flow-digest-2026-05-20.json": {
+      "size": 30909
+    },
+    "flow-digest-2026-05-21.json": {
+      "size": 33612
+    },
+    "flow-digest-2026-05-22.json": {
+      "size": 31352
+    },
+    "flow-digest-2026-05-26.json": {
+      "size": 43816
+    },
+    "flow-digest-2026-05-27.json": {
+      "size": 36066
+    },
+    "flow-digest-2026-05-28.json": {
+      "size": 40728
+    },
+    "flow-digest-2026-05-29.json": {
+      "size": 34279
+    },
+    "flow-digest-dates.json": {
+      "size": 39
+    },
+    "flow-digest-latest-v2.json": {
+      "size": 41092
+    },
+    "flow-digest-latest.json": {
+      "size": 41092
+    },
+    "flow-digest-list.json": {
+      "size": 39
+    },
+    "flow-digest-today.json": {
+      "size": 67743
+    },
+    "flow-digest.json": {
+      "size": 34279
+    },
+    "gex-0dte.json": {
+      "size": 15088
+    },
+    "gex-1dte.json": {
+      "size": 14930
+    },
+    "gex-2dte.json": {
+      "size": 14969
+    },
+    "gex-4dte.json": {
+      "size": 15045
+    },
+    "gex-spx-dte0-complete.json": {
+      "size": 15200
+    },
+    "gex-spx-dte0-fresh.json": {
+      "size": 10010
+    },
+    "gex-spx-dte0.json": {
+      "size": 21068
+    },
+    "gex-spx-dte1-complete.json": {
+      "size": 15084
+    },
+    "gex-spx-dte1-fresh.json": {
+      "size": 16006
+    },
+    "gex-spx-dte1.json": {
+      "size": 20971
+    },
+    "gex-spx-dte10-complete.json": {
+      "size": 12849
+    },
+    "gex-spx-dte10-fresh.json": {
+      "size": 12847
+    },
+    "gex-spx-dte10.json": {
+      "size": 17885
+    },
+    "gex-spx-dte100.json": {
+      "size": 240
+    },
+    "gex-spx-dte101.json": {
+      "size": 240
+    },
+    "gex-spx-dte102.json": {
+      "size": 240
+    },
+    "gex-spx-dte103.json": {
+      "size": 240
+    },
+    "gex-spx-dte104.json": {
+      "size": 240
+    },
+    "gex-spx-dte105.json": {
+      "size": 240
+    },
+    "gex-spx-dte106.json": {
+      "size": 240
+    },
+    "gex-spx-dte107.json": {
+      "size": 240
+    },
+    "gex-spx-dte108.json": {
+      "size": 240
+    },
+    "gex-spx-dte109.json": {
+      "size": 240
+    },
+    "gex-spx-dte11-complete.json": {
+      "size": 11428
+    },
+    "gex-spx-dte11.json": {
+      "size": 16012
+    },
+    "gex-spx-dte110.json": {
+      "size": 240
+    },
+    "gex-spx-dte111.json": {
+      "size": 240
+    },
+    "gex-spx-dte112.json": {
+      "size": 240
+    },
+    "gex-spx-dte113.json": {
+      "size": 240
+    },
+    "gex-spx-dte114.json": {
+      "size": 240
+    },
+    "gex-spx-dte115.json": {
+      "size": 240
+    },
+    "gex-spx-dte116.json": {
+      "size": 240
+    },
+    "gex-spx-dte117.json": {
+      "size": 240
+    },
+    "gex-spx-dte118.json": {
+      "size": 240
+    },
+    "gex-spx-dte119.json": {
+      "size": 240
+    },
+    "gex-spx-dte12-complete.json": {
+      "size": 11244
+    },
+    "gex-spx-dte12.json": {
+      "size": 15737
+    },
+    "gex-spx-dte120.json": {
+      "size": 240
+    },
+    "gex-spx-dte121.json": {
+      "size": 240
+    },
+    "gex-spx-dte122.json": {
+      "size": 240
+    },
+    "gex-spx-dte123.json": {
+      "size": 240
+    },
+    "gex-spx-dte124.json": {
+      "size": 240
+    },
+    "gex-spx-dte125.json": {
+      "size": 240
+    },
+    "gex-spx-dte126.json": {
+      "size": 240
+    },
+    "gex-spx-dte127.json": {
+      "size": 240
+    },
+    "gex-spx-dte128.json": {
+      "size": 240
+    },
+    "gex-spx-dte129.json": {
+      "size": 240
+    },
+    "gex-spx-dte13-complete.json": {
+      "size": 15214
+    },
+    "gex-spx-dte13.json": {
+      "size": 21106
+    },
+    "gex-spx-dte130.json": {
+      "size": 240
+    },
+    "gex-spx-dte131.json": {
+      "size": 240
+    },
+    "gex-spx-dte132.json": {
+      "size": 240
+    },
+    "gex-spx-dte133.json": {
+      "size": 240
+    },
+    "gex-spx-dte134.json": {
+      "size": 240
+    },
+    "gex-spx-dte135.json": {
+      "size": 240
+    },
+    "gex-spx-dte136.json": {
+      "size": 240
+    },
+    "gex-spx-dte137.json": {
+      "size": 240
+    },
+    "gex-spx-dte138.json": {
+      "size": 240
+    },
+    "gex-spx-dte139.json": {
+      "size": 240
+    },
+    "gex-spx-dte14-complete.json": {
+      "size": 67
+    },
+    "gex-spx-dte14.json": {
+      "size": 76
+    },
+    "gex-spx-dte140.json": {
+      "size": 240
+    },
+    "gex-spx-dte141.json": {
+      "size": 240
+    },
+    "gex-spx-dte142.json": {
+      "size": 240
+    },
+    "gex-spx-dte143.json": {
+      "size": 240
+    },
+    "gex-spx-dte144.json": {
+      "size": 240
+    },
+    "gex-spx-dte145.json": {
+      "size": 240
+    },
+    "gex-spx-dte146.json": {
+      "size": 240
+    },
+    "gex-spx-dte147.json": {
+      "size": 240
+    },
+    "gex-spx-dte148.json": {
+      "size": 240
+    },
+    "gex-spx-dte149.json": {
+      "size": 240
+    },
+    "gex-spx-dte15-complete.json": {
+      "size": 139
+    },
+    "gex-spx-dte15.json": {
+      "size": 239
+    },
+    "gex-spx-dte150.json": {
+      "size": 240
+    },
+    "gex-spx-dte151.json": {
+      "size": 240
+    },
+    "gex-spx-dte152.json": {
+      "size": 240
+    },
+    "gex-spx-dte153.json": {
+      "size": 240
+    },
+    "gex-spx-dte154.json": {
+      "size": 240
+    },
+    "gex-spx-dte155.json": {
+      "size": 240
+    },
+    "gex-spx-dte156.json": {
+      "size": 240
+    },
+    "gex-spx-dte157.json": {
+      "size": 240
+    },
+    "gex-spx-dte158.json": {
+      "size": 240
+    },
+    "gex-spx-dte159.json": {
+      "size": 240
+    },
+    "gex-spx-dte16-complete.json": {
+      "size": 139
+    },
+    "gex-spx-dte16.json": {
+      "size": 239
+    },
+    "gex-spx-dte160.json": {
+      "size": 240
+    },
+    "gex-spx-dte161.json": {
+      "size": 240
+    },
+    "gex-spx-dte162.json": {
+      "size": 240
+    },
+    "gex-spx-dte163.json": {
+      "size": 240
+    },
+    "gex-spx-dte164.json": {
+      "size": 240
+    },
+    "gex-spx-dte165.json": {
+      "size": 240
+    },
+    "gex-spx-dte166.json": {
+      "size": 240
+    },
+    "gex-spx-dte167.json": {
+      "size": 240
+    },
+    "gex-spx-dte168.json": {
+      "size": 240
+    },
+    "gex-spx-dte169.json": {
+      "size": 240
+    },
+    "gex-spx-dte17-complete.json": {
+      "size": 139
+    },
+    "gex-spx-dte17.json": {
+      "size": 239
+    },
+    "gex-spx-dte170.json": {
+      "size": 240
+    },
+    "gex-spx-dte171.json": {
+      "size": 240
+    },
+    "gex-spx-dte172.json": {
+      "size": 240
+    },
+    "gex-spx-dte173.json": {
+      "size": 240
+    },
+    "gex-spx-dte174.json": {
+      "size": 240
+    },
+    "gex-spx-dte175.json": {
+      "size": 240
+    },
+    "gex-spx-dte176.json": {
+      "size": 240
+    },
+    "gex-spx-dte177.json": {
+      "size": 240
+    },
+    "gex-spx-dte178.json": {
+      "size": 240
+    },
+    "gex-spx-dte179.json": {
+      "size": 240
+    },
+    "gex-spx-dte18-complete.json": {
+      "size": 139
+    },
+    "gex-spx-dte18.json": {
+      "size": 239
+    },
+    "gex-spx-dte180.json": {
+      "size": 240
+    },
+    "gex-spx-dte181.json": {
+      "size": 240
+    },
+    "gex-spx-dte182.json": {
+      "size": 240
+    },
+    "gex-spx-dte183.json": {
+      "size": 240
+    },
+    "gex-spx-dte184.json": {
+      "size": 240
+    },
+    "gex-spx-dte185.json": {
+      "size": 240
+    },
+    "gex-spx-dte186.json": {
+      "size": 240
+    },
+    "gex-spx-dte187.json": {
+      "size": 240
+    },
+    "gex-spx-dte188.json": {
+      "size": 240
+    },
+    "gex-spx-dte189.json": {
+      "size": 240
+    },
+    "gex-spx-dte19-complete.json": {
+      "size": 139
+    },
+    "gex-spx-dte19.json": {
+      "size": 239
+    },
+    "gex-spx-dte190.json": {
+      "size": 240
+    },
+    "gex-spx-dte191.json": {
+      "size": 240
+    },
+    "gex-spx-dte192.json": {
+      "size": 240
+    },
+    "gex-spx-dte193.json": {
+      "size": 240
+    },
+    "gex-spx-dte194.json": {
+      "size": 240
+    },
+    "gex-spx-dte195.json": {
+      "size": 240
+    },
+    "gex-spx-dte196.json": {
+      "size": 240
+    },
+    "gex-spx-dte197.json": {
+      "size": 240
+    },
+    "gex-spx-dte198.json": {
+      "size": 240
+    },
+    "gex-spx-dte199.json": {
+      "size": 240
+    },
+    "gex-spx-dte2-complete.json": {
+      "size": 14962
+    },
+    "gex-spx-dte2-fresh.json": {
+      "size": 14959
+    },
+    "gex-spx-dte2.json": {
+      "size": 20866
+    },
+    "gex-spx-dte20-complete.json": {
+      "size": 139
+    },
+    "gex-spx-dte20.json": {
+      "size": 239
+    },
+    "gex-spx-dte200.json": {
+      "size": 240
+    },
+    "gex-spx-dte201.json": {
+      "size": 240
+    },
+    "gex-spx-dte202.json": {
+      "size": 240
+    },
+    "gex-spx-dte203.json": {
+      "size": 240
+    },
+    "gex-spx-dte204.json": {
+      "size": 240
+    },
+    "gex-spx-dte205.json": {
+      "size": 240
+    },
+    "gex-spx-dte206.json": {
+      "size": 240
+    },
+    "gex-spx-dte207.json": {
+      "size": 240
+    },
+    "gex-spx-dte208.json": {
+      "size": 240
+    },
+    "gex-spx-dte209.json": {
+      "size": 240
+    },
+    "gex-spx-dte21-complete.json": {
+      "size": 139
+    },
+    "gex-spx-dte21.json": {
+      "size": 239
+    },
+    "gex-spx-dte210.json": {
+      "size": 240
+    },
+    "gex-spx-dte211.json": {
+      "size": 240
+    },
+    "gex-spx-dte212.json": {
+      "size": 240
+    },
+    "gex-spx-dte213.json": {
+      "size": 240
+    },
+    "gex-spx-dte214.json": {
+      "size": 240
+    },
+    "gex-spx-dte215.json": {
+      "size": 240
+    },
+    "gex-spx-dte216.json": {
+      "size": 240
+    },
+    "gex-spx-dte217.json": {
+      "size": 240
+    },
+    "gex-spx-dte218.json": {
+      "size": 240
+    },
+    "gex-spx-dte219.json": {
+      "size": 240
+    },
+    "gex-spx-dte22-complete.json": {
+      "size": 139
+    },
+    "gex-spx-dte22.json": {
+      "size": 239
+    },
+    "gex-spx-dte220.json": {
+      "size": 240
+    },
+    "gex-spx-dte221.json": {
+      "size": 240
+    },
+    "gex-spx-dte222.json": {
+      "size": 240
+    },
+    "gex-spx-dte223.json": {
+      "size": 240
+    },
+    "gex-spx-dte224.json": {
+      "size": 240
+    },
+    "gex-spx-dte225.json": {
+      "size": 240
+    },
+    "gex-spx-dte226.json": {
+      "size": 240
+    },
+    "gex-spx-dte227.json": {
+      "size": 240
+    },
+    "gex-spx-dte228.json": {
+      "size": 240
+    },
+    "gex-spx-dte229.json": {
+      "size": 240
+    },
+    "gex-spx-dte23-complete.json": {
+      "size": 139
+    },
+    "gex-spx-dte23.json": {
+      "size": 239
+    },
+    "gex-spx-dte230.json": {
+      "size": 240
+    },
+    "gex-spx-dte231.json": {
+      "size": 240
+    },
+    "gex-spx-dte232.json": {
+      "size": 240
+    },
+    "gex-spx-dte233.json": {
+      "size": 240
+    },
+    "gex-spx-dte234.json": {
+      "size": 240
+    },
+    "gex-spx-dte235.json": {
+      "size": 240
+    },
+    "gex-spx-dte236.json": {
+      "size": 240
+    },
+    "gex-spx-dte237.json": {
+      "size": 240
+    },
+    "gex-spx-dte238.json": {
+      "size": 240
+    },
+    "gex-spx-dte239.json": {
+      "size": 240
+    },
+    "gex-spx-dte24-complete.json": {
+      "size": 139
+    },
+    "gex-spx-dte24.json": {
+      "size": 239
+    },
+    "gex-spx-dte240.json": {
+      "size": 240
+    },
+    "gex-spx-dte241.json": {
+      "size": 240
+    },
+    "gex-spx-dte242.json": {
+      "size": 240
+    },
+    "gex-spx-dte243.json": {
+      "size": 240
+    },
+    "gex-spx-dte244.json": {
+      "size": 240
+    },
+    "gex-spx-dte245.json": {
+      "size": 240
+    },
+    "gex-spx-dte246.json": {
+      "size": 240
+    },
+    "gex-spx-dte247.json": {
+      "size": 240
+    },
+    "gex-spx-dte248.json": {
+      "size": 240
+    },
+    "gex-spx-dte249.json": {
+      "size": 240
+    },
+    "gex-spx-dte25-complete.json": {
+      "size": 139
+    },
+    "gex-spx-dte25.json": {
+      "size": 239
+    },
+    "gex-spx-dte250.json": {
+      "size": 240
+    },
+    "gex-spx-dte251.json": {
+      "size": 240
+    },
+    "gex-spx-dte252.json": {
+      "size": 240
+    },
+    "gex-spx-dte253.json": {
+      "size": 240
+    },
+    "gex-spx-dte254.json": {
+      "size": 240
+    },
+    "gex-spx-dte255.json": {
+      "size": 240
+    },
+    "gex-spx-dte256.json": {
+      "size": 240
+    },
+    "gex-spx-dte257.json": {
+      "size": 240
+    },
+    "gex-spx-dte258.json": {
+      "size": 240
+    },
+    "gex-spx-dte259.json": {
+      "size": 240
+    },
+    "gex-spx-dte26-complete.json": {
+      "size": 139
+    },
+    "gex-spx-dte26.json": {
+      "size": 239
+    },
+    "gex-spx-dte260.json": {
+      "size": 240
+    },
+    "gex-spx-dte261.json": {
+      "size": 240
+    },
+    "gex-spx-dte262.json": {
+      "size": 240
+    },
+    "gex-spx-dte263.json": {
+      "size": 240
+    },
+    "gex-spx-dte264.json": {
+      "size": 240
+    },
+    "gex-spx-dte265.json": {
+      "size": 240
+    },
+    "gex-spx-dte266.json": {
+      "size": 240
+    },
+    "gex-spx-dte267.json": {
+      "size": 240
+    },
+    "gex-spx-dte268.json": {
+      "size": 240
+    },
+    "gex-spx-dte269.json": {
+      "size": 240
+    },
+    "gex-spx-dte27-complete.json": {
+      "size": 139
+    },
+    "gex-spx-dte27.json": {
+      "size": 239
+    },
+    "gex-spx-dte270.json": {
+      "size": 240
+    },
+    "gex-spx-dte271.json": {
+      "size": 240
+    },
+    "gex-spx-dte272.json": {
+      "size": 240
+    },
+    "gex-spx-dte273.json": {
+      "size": 240
+    },
+    "gex-spx-dte274.json": {
+      "size": 240
+    },
+    "gex-spx-dte275.json": {
+      "size": 240
+    },
+    "gex-spx-dte276.json": {
+      "size": 240
+    },
+    "gex-spx-dte277.json": {
+      "size": 240
+    },
+    "gex-spx-dte278.json": {
+      "size": 240
+    },
+    "gex-spx-dte279.json": {
+      "size": 240
+    },
+    "gex-spx-dte28-complete.json": {
+      "size": 139
+    },
+    "gex-spx-dte28.json": {
+      "size": 239
+    },
+    "gex-spx-dte280.json": {
+      "size": 240
+    },
+    "gex-spx-dte281.json": {
+      "size": 240
+    },
+    "gex-spx-dte282.json": {
+      "size": 240
+    },
+    "gex-spx-dte283.json": {
+      "size": 240
+    },
+    "gex-spx-dte284.json": {
+      "size": 240
+    },
+    "gex-spx-dte285.json": {
+      "size": 240
+    },
+    "gex-spx-dte286.json": {
+      "size": 240
+    },
+    "gex-spx-dte287.json": {
+      "size": 240
+    },
+    "gex-spx-dte288.json": {
+      "size": 240
+    },
+    "gex-spx-dte289.json": {
+      "size": 240
+    },
+    "gex-spx-dte29-complete.json": {
+      "size": 139
+    },
+    "gex-spx-dte29.json": {
+      "size": 239
+    },
+    "gex-spx-dte290.json": {
+      "size": 240
+    },
+    "gex-spx-dte291.json": {
+      "size": 240
+    },
+    "gex-spx-dte292.json": {
+      "size": 240
+    },
+    "gex-spx-dte293.json": {
+      "size": 240
+    },
+    "gex-spx-dte294.json": {
+      "size": 240
+    },
+    "gex-spx-dte295.json": {
+      "size": 240
+    },
+    "gex-spx-dte296.json": {
+      "size": 240
+    },
+    "gex-spx-dte297.json": {
+      "size": 240
+    },
+    "gex-spx-dte298.json": {
+      "size": 240
+    },
+    "gex-spx-dte299.json": {
+      "size": 240
+    },
+    "gex-spx-dte3-complete.json": {
+      "size": 15001
+    },
+    "gex-spx-dte3-fresh.json": {
+      "size": 15010
+    },
+    "gex-spx-dte3.json": {
+      "size": 20883
+    },
+    "gex-spx-dte30-complete.json": {
+      "size": 139
+    },
+    "gex-spx-dte30.json": {
+      "size": 239
+    },
+    "gex-spx-dte300.json": {
+      "size": 240
+    },
+    "gex-spx-dte301.json": {
+      "size": 240
+    },
+    "gex-spx-dte302.json": {
+      "size": 240
+    },
+    "gex-spx-dte303.json": {
+      "size": 240
+    },
+    "gex-spx-dte304.json": {
+      "size": 240
+    },
+    "gex-spx-dte305.json": {
+      "size": 240
+    },
+    "gex-spx-dte306.json": {
+      "size": 240
+    },
+    "gex-spx-dte307.json": {
+      "size": 240
+    },
+    "gex-spx-dte308.json": {
+      "size": 240
+    },
+    "gex-spx-dte309.json": {
+      "size": 240
+    },
+    "gex-spx-dte31.json": {
+      "size": 239
+    },
+    "gex-spx-dte310.json": {
+      "size": 240
+    },
+    "gex-spx-dte311.json": {
+      "size": 240
+    },
+    "gex-spx-dte312.json": {
+      "size": 240
+    },
+    "gex-spx-dte313.json": {
+      "size": 240
+    },
+    "gex-spx-dte314.json": {
+      "size": 240
+    },
+    "gex-spx-dte315.json": {
+      "size": 240
+    },
+    "gex-spx-dte316.json": {
+      "size": 240
+    },
+    "gex-spx-dte317.json": {
+      "size": 240
+    },
+    "gex-spx-dte318.json": {
+      "size": 240
+    },
+    "gex-spx-dte319.json": {
+      "size": 240
+    },
+    "gex-spx-dte32.json": {
+      "size": 239
+    },
+    "gex-spx-dte320.json": {
+      "size": 240
+    },
+    "gex-spx-dte321.json": {
+      "size": 240
+    },
+    "gex-spx-dte322.json": {
+      "size": 240
+    },
+    "gex-spx-dte323.json": {
+      "size": 240
+    },
+    "gex-spx-dte324.json": {
+      "size": 240
+    },
+    "gex-spx-dte325.json": {
+      "size": 240
+    },
+    "gex-spx-dte326.json": {
+      "size": 240
+    },
+    "gex-spx-dte327.json": {
+      "size": 240
+    },
+    "gex-spx-dte328.json": {
+      "size": 240
+    },
+    "gex-spx-dte329.json": {
+      "size": 240
+    },
+    "gex-spx-dte33.json": {
+      "size": 239
+    },
+    "gex-spx-dte330.json": {
+      "size": 240
+    },
+    "gex-spx-dte331.json": {
+      "size": 240
+    },
+    "gex-spx-dte332.json": {
+      "size": 240
+    },
+    "gex-spx-dte333.json": {
+      "size": 240
+    },
+    "gex-spx-dte334.json": {
+      "size": 240
+    },
+    "gex-spx-dte335.json": {
+      "size": 240
+    },
+    "gex-spx-dte336.json": {
+      "size": 240
+    },
+    "gex-spx-dte337.json": {
+      "size": 240
+    },
+    "gex-spx-dte338.json": {
+      "size": 240
+    },
+    "gex-spx-dte339.json": {
+      "size": 240
+    },
+    "gex-spx-dte34.json": {
+      "size": 239
+    },
+    "gex-spx-dte340.json": {
+      "size": 240
+    },
+    "gex-spx-dte341.json": {
+      "size": 240
+    },
+    "gex-spx-dte342.json": {
+      "size": 240
+    },
+    "gex-spx-dte343.json": {
+      "size": 240
+    },
+    "gex-spx-dte344.json": {
+      "size": 240
+    },
+    "gex-spx-dte345.json": {
+      "size": 240
+    },
+    "gex-spx-dte346.json": {
+      "size": 240
+    },
+    "gex-spx-dte347.json": {
+      "size": 240
+    },
+    "gex-spx-dte348.json": {
+      "size": 240
+    },
+    "gex-spx-dte349.json": {
+      "size": 240
+    },
+    "gex-spx-dte35.json": {
+      "size": 239
+    },
+    "gex-spx-dte350.json": {
+      "size": 240
+    },
+    "gex-spx-dte351.json": {
+      "size": 240
+    },
+    "gex-spx-dte352.json": {
+      "size": 240
+    },
+    "gex-spx-dte353.json": {
+      "size": 240
+    },
+    "gex-spx-dte354.json": {
+      "size": 240
+    },
+    "gex-spx-dte355.json": {
+      "size": 240
+    },
+    "gex-spx-dte356.json": {
+      "size": 240
+    },
+    "gex-spx-dte357.json": {
+      "size": 240
+    },
+    "gex-spx-dte358.json": {
+      "size": 240
+    },
+    "gex-spx-dte359.json": {
+      "size": 240
+    },
+    "gex-spx-dte36.json": {
+      "size": 239
+    },
+    "gex-spx-dte360.json": {
+      "size": 240
+    },
+    "gex-spx-dte361.json": {
+      "size": 240
+    },
+    "gex-spx-dte362.json": {
+      "size": 240
+    },
+    "gex-spx-dte363.json": {
+      "size": 240
+    },
+    "gex-spx-dte364.json": {
+      "size": 240
+    },
+    "gex-spx-dte365.json": {
+      "size": 240
+    },
+    "gex-spx-dte37.json": {
+      "size": 239
+    },
+    "gex-spx-dte38.json": {
+      "size": 239
+    },
+    "gex-spx-dte39.json": {
+      "size": 239
+    },
+    "gex-spx-dte4-complete.json": {
+      "size": 15110
+    },
+    "gex-spx-dte4-fresh.json": {
+      "size": 15097
+    },
+    "gex-spx-dte4.json": {
+      "size": 20980
+    },
+    "gex-spx-dte40.json": {
+      "size": 239
+    },
+    "gex-spx-dte41.json": {
+      "size": 239
+    },
+    "gex-spx-dte42.json": {
+      "size": 239
+    },
+    "gex-spx-dte43.json": {
+      "size": 239
+    },
+    "gex-spx-dte44.json": {
+      "size": 239
+    },
+    "gex-spx-dte45.json": {
+      "size": 239
+    },
+    "gex-spx-dte46.json": {
+      "size": 239
+    },
+    "gex-spx-dte47.json": {
+      "size": 239
+    },
+    "gex-spx-dte48.json": {
+      "size": 239
+    },
+    "gex-spx-dte49.json": {
+      "size": 239
+    },
+    "gex-spx-dte5-complete.json": {
+      "size": 14795
+    },
+    "gex-spx-dte5-fresh.json": {
+      "size": 14789
+    },
+    "gex-spx-dte5.json": {
+      "size": 20604
+    },
+    "gex-spx-dte50.json": {
+      "size": 239
+    },
+    "gex-spx-dte51.json": {
+      "size": 239
+    },
+    "gex-spx-dte52.json": {
+      "size": 239
+    },
+    "gex-spx-dte53.json": {
+      "size": 239
+    },
+    "gex-spx-dte54.json": {
+      "size": 239
+    },
+    "gex-spx-dte55.json": {
+      "size": 239
+    },
+    "gex-spx-dte56.json": {
+      "size": 239
+    },
+    "gex-spx-dte57.json": {
+      "size": 239
+    },
+    "gex-spx-dte58.json": {
+      "size": 239
+    },
+    "gex-spx-dte59.json": {
+      "size": 239
+    },
+    "gex-spx-dte6-complete.json": {
+      "size": 14198
+    },
+    "gex-spx-dte6-fresh.json": {
+      "size": 14200
+    },
+    "gex-spx-dte6.json": {
+      "size": 19823
+    },
+    "gex-spx-dte60.json": {
+      "size": 239
+    },
+    "gex-spx-dte61.json": {
+      "size": 239
+    },
+    "gex-spx-dte62.json": {
+      "size": 239
+    },
+    "gex-spx-dte63.json": {
+      "size": 239
+    },
+    "gex-spx-dte64.json": {
+      "size": 239
+    },
+    "gex-spx-dte65.json": {
+      "size": 239
+    },
+    "gex-spx-dte66.json": {
+      "size": 239
+    },
+    "gex-spx-dte67.json": {
+      "size": 239
+    },
+    "gex-spx-dte68.json": {
+      "size": 239
+    },
+    "gex-spx-dte69.json": {
+      "size": 239
+    },
+    "gex-spx-dte7-complete.json": {
+      "size": 14033
+    },
+    "gex-spx-dte7-fresh.json": {
+      "size": 13784
+    },
+    "gex-spx-dte7.json": {
+      "size": 19561
+    },
+    "gex-spx-dte70.json": {
+      "size": 239
+    },
+    "gex-spx-dte71.json": {
+      "size": 239
+    },
+    "gex-spx-dte72.json": {
+      "size": 239
+    },
+    "gex-spx-dte73.json": {
+      "size": 239
+    },
+    "gex-spx-dte74.json": {
+      "size": 239
+    },
+    "gex-spx-dte75.json": {
+      "size": 239
+    },
+    "gex-spx-dte76.json": {
+      "size": 239
+    },
+    "gex-spx-dte77.json": {
+      "size": 239
+    },
+    "gex-spx-dte78.json": {
+      "size": 239
+    },
+    "gex-spx-dte79.json": {
+      "size": 239
+    },
+    "gex-spx-dte8-complete.json": {
+      "size": 13048
+    },
+    "gex-spx-dte8-fresh.json": {
+      "size": 13045
+    },
+    "gex-spx-dte8.json": {
+      "size": 18234
+    },
+    "gex-spx-dte80.json": {
+      "size": 239
+    },
+    "gex-spx-dte81.json": {
+      "size": 239
+    },
+    "gex-spx-dte82.json": {
+      "size": 239
+    },
+    "gex-spx-dte83.json": {
+      "size": 239
+    },
+    "gex-spx-dte84.json": {
+      "size": 239
+    },
+    "gex-spx-dte85.json": {
+      "size": 239
+    },
+    "gex-spx-dte86.json": {
+      "size": 239
+    },
+    "gex-spx-dte87.json": {
+      "size": 239
+    },
+    "gex-spx-dte88.json": {
+      "size": 239
+    },
+    "gex-spx-dte89.json": {
+      "size": 239
+    },
+    "gex-spx-dte9-complete.json": {
+      "size": 14811
+    },
+    "gex-spx-dte9-fresh.json": {
+      "size": 14810
+    },
+    "gex-spx-dte9.json": {
+      "size": 20610
+    },
+    "gex-spx-dte90.json": {
+      "size": 239
+    },
+    "gex-spx-dte91.json": {
+      "size": 239
+    },
+    "gex-spx-dte92.json": {
+      "size": 239
+    },
+    "gex-spx-dte93.json": {
+      "size": 239
+    },
+    "gex-spx-dte94.json": {
+      "size": 239
+    },
+    "gex-spx-dte95.json": {
+      "size": 239
+    },
+    "gex-spx-dte96.json": {
+      "size": 239
+    },
+    "gex-spx-dte97.json": {
+      "size": 239
+    },
+    "gex-spx-dte98.json": {
+      "size": 239
+    },
+    "gex-spx-dte99.json": {
+      "size": 239
+    },
+    "sse-token.json": {
+      "size": 184
+    }
+  }
+}

@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <link rel="stylesheet" href="/fonts/local-fonts.css">
+    <title>Alpha Pod Hub</title>
+    <!-- Google tag (GA4) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5SMRGBC20P"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-5SMRGBC20P');
+    </script>
+    <script type="module" crossorigin src="/assets/index-CFbq_e3t.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/authStore-CoQdF-Ph.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-Bnpw5mug.css">
+
+<script>
+(function() {
+  var API = 'https://api.alphapodtrading.com';
+  var PX  = '/api-proxy';
+  // Rewrite fetch
+  var _fetch = window.fetch;
+  window.fetch = function(url, opts) {
+    if (typeof url === 'string' && url.startsWith(API)) {
+      url = PX + url.slice(API.length);
+    } else if (url && url.url && url.url.startsWith(API)) {
+      url = new Request(PX + url.url.slice(API.length), url);
+    }
+    return _fetch.call(this, url, opts);
+  };
+  // Rewrite XMLHttpRequest
+  var _open = XMLHttpRequest.prototype.open;
+  XMLHttpRequest.prototype.open = function(m, url) {
+    if (typeof url === 'string' && url.startsWith(API)) {
+      url = PX + url.slice(API.length);
+    }
+    return _open.apply(this, arguments);
+  };
+  // Rewrite EventSource (SSE)
+  var _ES = window.EventSource;
+  window.EventSource = function(url, opts) {
+    if (typeof url === 'string' && url.startsWith(API)) {
+      url = PX + url.slice(API.length);
+    }
+    return new _ES(url, opts);
+  };
+})();
+</script>
+</head>
+<body>
+    <div id="root"></div>
+</body>
+</html>

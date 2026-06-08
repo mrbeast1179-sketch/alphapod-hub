@@ -1,0 +1,26 @@
+{
+  "project": "hub.alphapodtrading.com clone",
+  "live_url": "http://localhost:3456",
+  "status": "WORKING - all pages render with real data",
+  "pages": {
+    "flow-alerts": {"chars": 31739, "svgs": 0, "notes": "FULL RENDER with sidebar, filters, table, 0 alerts (market closed)"},
+    "spx-gex": {"chars": 21306, "svgs": 16, "notes": "FULL RENDER with 16 SVG charts, King Nodes table"},
+    "alpha-flow": {"chars": 18973, "svgs": 16, "notes": "FULL RENDER with chart data"},
+    "daily-report": {"chars": 18000, "notes": "rendered"},
+    "heatmaps": {"chars": 17000, "notes": "rendered"},
+    "ticker-analysis": {"chars": 96000, "notes": "NVDA deep-dive rendered"},
+    "earnings": {"chars": 28000, "notes": "rendered"},
+    "signals": {"chars": 17000, "notes": "rendered"},
+    "trade-log": {"chars": 17000, "notes": "rendered"},
+    "performance": {"chars": 17000, "notes": "rendered"},
+    "key-levels": {"chars": 17000, "notes": "rendered"},
+    "spx-alerts": {"chars": 18000, "notes": "rendered"},
+    "dashboard": {"chars": 18000, "notes": "rendered"}
+  },
+  "login_works": true,
+  "api_proxy_works": true,
+  "fonts_local": true,
+  "js_chunks_all_served": true,
+  "all_routes_200": true,
+  "verified_in_browser": true
+}

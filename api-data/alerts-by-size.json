@@ -1,0 +1,1 @@
+{"detail":[{"type":"literal_error","loc":["query","sort"],"msg":"Input should be 'created_at', 'premium' or 'vol_oi_ratio'","input":"size","ctx":{"expected":"'created_at', 'premium' or 'vol_oi_ratio'"}}]}
