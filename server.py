@@ -103,6 +103,22 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         ext = os.path.splitext(path)[1].lower()
         return MIMES.get(ext, super().guess_type(path))
 
+    def send_header(self, keyword, value):
+        # Track whether an ACAO header has already been emitted for this
+        # response so end_headers() doesn't add a duplicate (browsers reject
+        # responses carrying two Access-Control-Allow-Origin values).
+        if keyword.lower() == "access-control-allow-origin":
+            self._acao_sent = True
+        super().send_header(keyword, value)
+
+    def end_headers(self):
+        # Defense-in-depth: ensure EVERY response (including static files served
+        # by SimpleHTTPRequestHandler) carries an ACAO header, but only once.
+        if not getattr(self, "_acao_sent", False):
+            super().send_header("Access-Control-Allow-Origin", "*")
+        self._acao_sent = False
+        super().end_headers()
+
     def do_GET(self):
         path = self.path.split("?")[0]
 
@@ -168,7 +184,6 @@ class Handler(http.server.SimpleHTTPRequestHandler):
             msg = json.dumps({"error": f"Payload too large ({length} > {self.MAX_CAPTURE_BYTES})"}).encode()
             self.send_response(413)
             self.send_header("Content-Type", "application/json")
-            self.send_header("Access-Control-Allow-Origin", "*")
             self.end_headers()
             self.wfile.write(msg)
             return
@@ -191,21 +206,18 @@ class Handler(http.server.SimpleHTTPRequestHandler):
             resp = json.dumps({"ok": True, "name": safe_name, "size_kb": round(size_kb, 1)}).encode()
             self.send_response(200)
             self.send_header("Content-Type", "application/json")
-            self.send_header("Access-Control-Allow-Origin", "*")
             self.end_headers()
             self.wfile.write(resp)
         except Exception as e:
             msg = json.dumps({"error": str(e)}).encode()
             self.send_response(400)
             self.send_header("Content-Type", "application/json")
-            self.send_header("Access-Control-Allow-Origin", "*")
             self.end_headers()
             self.wfile.write(msg)
 
     def do_OPTIONS(self):
         """Handle CORS preflight."""
         self.send_response(200)
-        self.send_header("Access-Control-Allow-Origin", "*")
         self.send_header("Access-Control-Allow-Methods", "GET, POST, OPTIONS")
         self.send_header("Access-Control-Allow-Headers", "Content-Type, Authorization")
         self.send_header("Access-Control-Max-Age", "600")
@@ -233,7 +245,6 @@ class Handler(http.server.SimpleHTTPRequestHandler):
             data = resp.read()
             self.send_response(resp.status)
             self.send_header("Content-Type", "application/json")
-            self.send_header("Access-Control-Allow-Origin", "*")
             self.send_header("Content-Length", str(len(data)))
             self.end_headers()
             self.wfile.write(data)
@@ -241,14 +252,12 @@ class Handler(http.server.SimpleHTTPRequestHandler):
             data = e.read()
             self.send_response(e.code)
             self.send_header("Content-Type", "application/json")
-            self.send_header("Access-Control-Allow-Origin", "*")
             self.end_headers()
             self.wfile.write(data)
         except Exception as e:
             msg = json.dumps({"error": str(e)}).encode()
             self.send_response(502)
             self.send_header("Content-Type", "application/json")
-            self.send_header("Access-Control-Allow-Origin", "*")
             self.end_headers()
             self.wfile.write(msg)
 
